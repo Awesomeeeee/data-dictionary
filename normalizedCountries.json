@@ -1994,6 +1994,13 @@
     "code3": "COD",
     "num": "180"
   },
+  "CONGO DEMOCRATIC REP": {
+    "normal": "CONGO (KINSHASA)",
+    "name": "刚果（金）",
+    "code": "CD",
+    "code3": "COD",
+    "num": "180"
+  },
   "CONGO DEMOCRATIC REPUBLI": {
     "normal": "CONGO (KINSHASA)",
     "name": "刚果（金）",
@@ -2310,6 +2317,13 @@
     "num": "384"
   },
   "COTE DIVO": {
+    "normal": "CÔTE D'IVOIRE",
+    "name": "科特迪瓦",
+    "code": "CI",
+    "code3": "CIV",
+    "num": "384"
+  },
+  "COTE DIVOIRE IVORY COAST": {
     "normal": "CÔTE D'IVOIRE",
     "name": "科特迪瓦",
     "code": "CI",
@@ -3555,6 +3569,13 @@
     "code3": "PYF",
     "num": "258"
   },
+  "FRENCH POLINESIA": {
+    "normal": "FRENCH POLYNESIA",
+    "name": "法属波利尼西亚",
+    "code": "PF",
+    "code3": "PYF",
+    "num": "258"
+  },
   "FRENCH POLYNESIA": {
     "normal": "FRENCH POLYNESIA",
     "name": "法属波利尼西亚",
@@ -4382,6 +4403,13 @@
     "num": "364"
   },
   "IRAN IR": {
+    "normal": "IRAN",
+    "name": "伊朗",
+    "code": "IR",
+    "code3": "IRN",
+    "num": "364"
+  },
+  "IRAN ISLAMIC REP": {
     "normal": "IRAN",
     "name": "伊朗",
     "code": "IR",
@@ -5222,6 +5250,13 @@
     "num": "410"
   },
   "KOREA REP OF SOUTH": {
+    "normal": "SOUTH KOREA",
+    "name": "韩国",
+    "code": "KR",
+    "code3": "KOR",
+    "num": "410"
+  },
+  "KOREA REPUBLIC": {
     "normal": "SOUTH KOREA",
     "name": "韩国",
     "code": "KR",
@@ -6426,6 +6461,13 @@
     "num": "498"
   },
   "MOLDOVA R": {
+    "normal": "MOLDOVA",
+    "name": "摩尔多瓦",
+    "code": "MD",
+    "code3": "MDA",
+    "num": "498"
+  },
+  "MOLDOVA REP": {
     "normal": "MOLDOVA",
     "name": "摩尔多瓦",
     "code": "MD",
@@ -8623,6 +8665,13 @@
     "code3": "VCT",
     "num": "670"
   },
+  "SAINT VINCENT GRENADINES": {
+    "normal": "SAINT VINCENT AND THE GRENADINES",
+    "name": "圣文森特和格林纳丁斯",
+    "code": "VC",
+    "code3": "VCT",
+    "num": "670"
+  },
   "SALOMON ISLAS": {
     "normal": "SOLOMON ISLANDS",
     "name": "所罗门群岛",
@@ -9205,6 +9254,13 @@
     "num": "703"
   },
   "SLOVAKIA": {
+    "normal": "SLOVAKIA",
+    "name": "斯洛伐克",
+    "code": "SK",
+    "code3": "SVK",
+    "num": "703"
+  },
+  "SLOVAKIA SLOVAK REP": {
     "normal": "SLOVAKIA",
     "name": "斯洛伐克",
     "code": "SK",
@@ -9912,6 +9968,13 @@
     "num": "760"
   },
   "SYRIAN": {
+    "normal": "SYRIA",
+    "name": "叙利亚",
+    "code": "SY",
+    "code3": "SYR",
+    "num": "760"
+  },
+  "SYRIAN ARAB REP": {
     "normal": "SYRIA",
     "name": "叙利亚",
     "code": "SY",
@@ -11739,6 +11802,13 @@
     "num": "876"
   },
   "WALLIS FUTUNA": {
+    "normal": "WALLIS AND FUTUNA",
+    "name": "瓦利斯和富图纳",
+    "code": "WF",
+    "code3": "WLF",
+    "num": "876"
+  },
+  "WALLIS FUTUNA ISLANDS": {
     "normal": "WALLIS AND FUTUNA",
     "name": "瓦利斯和富图纳",
     "code": "WF",
