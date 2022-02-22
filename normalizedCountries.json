@@ -11472,6 +11472,13 @@
     "code3": "THA",
     "num": "764"
   },
+  "THAILND": {
+    "normal": "THAILAND",
+    "name": "泰国",
+    "code": "TH",
+    "code3": "THA",
+    "num": "764"
+  },
   "THE BRITISH VIRGIN ISLANDS": {
     "normal": "VIRGIN ISLANDS (BRITISH)",
     "name": "英属维尔京群岛",
