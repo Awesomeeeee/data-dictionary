@@ -433,6 +433,13 @@
     "code3": "SAU",
     "num": "682"
   },
+  "AREAS ADUANERAS ESPECIALES DE ARGENTINA": {
+    "normal": "ARGENTINA",
+    "name": "阿根廷",
+    "code": "AR",
+    "code3": "ARG",
+    "num": "032"
+  },
   "ARGELIA": {
     "normal": "ALGERIA",
     "name": "阿尔及利亚",
@@ -5480,12 +5487,61 @@
     "code3": "CXR",
     "num": "162"
   },
+  "ISLA MONSERRAT": {
+    "normal": "MONTSERRAT",
+    "name": "蒙特塞拉特",
+    "code": "MS",
+    "code3": "MSR",
+    "num": "500"
+  },
+  "ISLA NIUE": {
+    "normal": "NIUE",
+    "name": "纽埃",
+    "code": "NU",
+    "code3": "NIU",
+    "num": "570"
+  },
+  "ISLA NORFOLK": {
+    "normal": "NORFOLK ISLAND",
+    "name": "诺福克岛",
+    "code": "NF",
+    "code3": "NFK",
+    "num": "574"
+  },
+  "ISLA PITCAIRN": {
+    "normal": "PITCAIRN",
+    "name": "皮特凯恩群岛",
+    "code": "PN",
+    "code3": "PCN",
+    "num": "612"
+  },
+  "ISLA REUNION": {
+    "normal": "REUNION",
+    "name": "留尼汪",
+    "code": "RE",
+    "code3": "REU",
+    "num": "638"
+  },
   "ISLA SAINT MAARTEN": {
     "normal": "SINT MAARTEN (DUTCH PART)",
     "name": "荷属圣马丁",
     "code": "SX",
     "code3": "SXM",
     "num": "534"
+  },
+  "ISLA SANTA LUCIA": {
+    "normal": "SAINT LUCIA",
+    "name": "圣卢西亚",
+    "code": "LC",
+    "code3": "LCA",
+    "num": "662"
+  },
+  "ISLA SVALBARD AND JAN MAYEN": {
+    "normal": "SVALBARD AND JAN MAYEN",
+    "name": "斯瓦尔巴和扬马延",
+    "code": "SJ",
+    "code3": "SJM",
+    "num": "744"
   },
   "ISLAMIC REPUBLIC OF IRAN": {
     "normal": "IRAN",
@@ -5500,6 +5556,13 @@
     "code": "IS",
     "code3": "ISL",
     "num": "352"
+  },
+  "ISLAS BAHAMAS": {
+    "normal": "BAHAMAS",
+    "name": "巴哈马",
+    "code": "BS",
+    "code3": "BHS",
+    "num": "044"
   },
   "ISLAS BAHREIN": {
     "normal": "BAHRAIN",
@@ -5557,6 +5620,13 @@
     "code3": "CCK",
     "num": "166"
   },
+  "ISLAS COMORAS": {
+    "normal": "COMOROS",
+    "name": "科摩罗",
+    "code": "KM",
+    "code3": "COM",
+    "num": "174"
+  },
   "ISLAS COOK": {
     "normal": "COOK ISLANDS",
     "name": "库克群岛",
@@ -5571,12 +5641,26 @@
     "code3": "SGS",
     "num": "239"
   },
+  "ISLAS FEROE": {
+    "normal": "FAROE ISLANDS",
+    "name": "法罗群岛",
+    "code": "FO",
+    "code3": "FRO",
+    "num": "234"
+  },
   "ISLAS FIJI": {
     "normal": "FIJI",
     "name": "斐济",
     "code": "FJ",
     "code3": "FJI",
     "num": "242"
+  },
+  "ISLAS HEARD AND MC DONALD": {
+    "normal": "HEARD ISLAND AND MCDONALD ISLANDS",
+    "name": "赫德岛和麦克唐纳群岛",
+    "code": "HM",
+    "code3": "HMD",
+    "num": "334"
   },
   "ISLAS HEARD Y MCDONALD": {
     "normal": "HEARD ISLAND AND MCDONALD ISLANDS",
@@ -5661,6 +5745,13 @@
     "code": "UM",
     "code3": "UMI",
     "num": "581"
+  },
+  "ISLAS NAVIDAD": {
+    "normal": "CHRISTMAS ISLAND",
+    "name": "圣诞岛",
+    "code": "CX",
+    "code3": "CXR",
+    "num": "162"
   },
   "ISLAS PITCAIRN": {
     "normal": "PITCAIRN",
@@ -5787,6 +5878,13 @@
     "code": "VG",
     "code3": "VGB",
     "num": "092"
+  },
+  "ISLAS VIRGENES NORTEAMERICANAS": {
+    "normal": "UNITED STATES VIRGIN ISLANDS",
+    "name": "美属维尔京群岛",
+    "code": "VI",
+    "code3": "VIR",
+    "num": "850"
   },
   "ISLAS VIRGENES UK": {
     "normal": "VIRGIN ISLANDS (BRITISH)",
@@ -6732,6 +6830,13 @@
     "code": "LB",
     "code3": "LBN",
     "num": "422"
+  },
+  "LESHOTO": {
+    "normal": "LESOTHO",
+    "name": "莱索托",
+    "code": "LS",
+    "code3": "LSO",
+    "num": "426"
   },
   "LESOTHO": {
     "normal": "LESOTHO",
@@ -9862,6 +9967,13 @@
     "code3": "KOR",
     "num": "410"
   },
+  "REPUBLICA DE COREA DEL SUR": {
+    "normal": "SOUTH KOREA",
+    "name": "韩国",
+    "code": "KR",
+    "code3": "KOR",
+    "num": "410"
+  },
   "REPUBLICA DE COREA POPULAR": {
     "normal": "SOUTH KOREA",
     "name": "韩国",
@@ -9967,6 +10079,13 @@
     "code3": "COD",
     "num": "180"
   },
+  "REPUBLICA DEMOCRATICA POPULAR DE COREA NORTE": {
+    "normal": "NORTH KOREA",
+    "name": "朝鲜",
+    "code": "KP",
+    "code3": "PRK",
+    "num": "408"
+  },
   "REPUBLICA DOMINICA": {
     "normal": "DOMINICAN REPUBLIC",
     "name": "多米尼加",
@@ -9988,6 +10107,13 @@
     "code3": "SVK",
     "num": "703"
   },
+  "REPUBLICA ESLOVAQUIA": {
+    "normal": "SLOVAKIA",
+    "name": "斯洛伐克",
+    "code": "SK",
+    "code3": "SVK",
+    "num": "703"
+  },
   "REPUBLICA FEDERAL DE ALEMANIA": {
     "normal": "GERMANY",
     "name": "德国",
@@ -10002,12 +10128,33 @@
     "code3": "IRN",
     "num": "364"
   },
+  "REPUBLICA POPULAR DE CHINA": {
+    "normal": "CHINA",
+    "name": "中国",
+    "code": "CN",
+    "code3": "CHN",
+    "num": "156"
+  },
+  "REPUBLICA POPULAR DEMOCRATICA DE LAOS": {
+    "normal": "LAOS",
+    "name": "老挝",
+    "code": "LA",
+    "code3": "LAO",
+    "num": "418"
+  },
   "REPUBLICA SEYCHELLES": {
     "normal": "SEYCHELLES",
     "name": "塞舌尔",
     "code": "SC",
     "code3": "SYC",
     "num": "690"
+  },
+  "REPUBLICA UNIDA DE TANZANIA": {
+    "normal": "TANZANIA",
+    "name": "坦桑尼亚",
+    "code": "TZ",
+    "code3": "TZA",
+    "num": "834"
   },
   "REPUBLICACENTROAFRICANA": {
     "normal": "CENTRAL AFRICAN REPUBLIC",
@@ -12585,6 +12732,13 @@
     "code3": "ATF",
     "num": "260"
   },
+  "TERRITORIOS FRANCESES DEL SUR": {
+    "normal": "FRENCH SOUTHERN TERRITORIES",
+    "name": "法属南部和南极领地",
+    "code": "TF",
+    "code3": "ATF",
+    "num": "260"
+  },
   "TG TOGO": {
     "normal": "TOGO",
     "name": "多哥",
@@ -14440,6 +14594,13 @@
     "code3": "ZMB",
     "num": "894"
   },
+  "ZONA DEL CANAL DE PANAMA": {
+    "normal": "PANAMA",
+    "name": "巴拿马",
+    "code": "PA",
+    "code3": "PAN",
+    "num": "591"
+  },
   "ZONA FRANCA AM RICA": {
     "normal": "UNITED STATES",
     "name": "美国",
@@ -14509,6 +14670,13 @@
     "code": "PS",
     "code3": "PSE",
     "num": "275"
+  },
+  "ZONAS FRANCAS DE ARGENTINA": {
+    "normal": "ARGENTINA",
+    "name": "阿根廷",
+    "code": "AR",
+    "code3": "ARG",
+    "num": "032"
   },
   "ZONAS FRANCAS DEL PERU": {
     "normal": "PERU",
