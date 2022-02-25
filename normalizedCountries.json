@@ -118,6 +118,13 @@
     "code3": "ALA",
     "num": "248"
   },
+  "ALAND ISLANDS": {
+    "normal": "ÅLAND ISLANDS",
+    "name": "奥兰",
+    "code": "AX",
+    "code3": "ALA",
+    "num": "248"
+  },
   "ALBANIA": {
     "normal": "ALBANIA",
     "name": "阿尔巴尼亚",
@@ -1161,6 +1168,13 @@
     "code3": "BIH",
     "num": "070"
   },
+  "BOSNIA AND HERZEGOVI": {
+    "normal": "BOSNIA AND HERZEGOVINA",
+    "name": "波黑",
+    "code": "BA",
+    "code3": "BIH",
+    "num": "070"
+  },
   "BOSNIA AND HERZEGOVINA": {
     "normal": "BOSNIA AND HERZEGOVINA",
     "name": "波黑",
@@ -1295,6 +1309,13 @@
     "num": "076"
   },
   "BRITISH INDIA OCEAN TERRITORY": {
+    "normal": "BRITISH INDIAN OCEAN TERRITORY",
+    "name": "英属印度洋领地",
+    "code": "IO",
+    "code3": "IOT",
+    "num": "086"
+  },
+  "BRITISH INDIAN OCEAN": {
     "normal": "BRITISH INDIAN OCEAN TERRITORY",
     "name": "英属印度洋领地",
     "code": "IO",
@@ -2197,6 +2218,13 @@
     "code3": "CCK",
     "num": "166"
   },
+  "COCOS KEELING ISLA": {
+    "normal": "COCOS (KEELING) ISLANDS",
+    "name": "科科斯（基林）群岛",
+    "code": "CC",
+    "code3": "CCK",
+    "num": "166"
+  },
   "COCOS KEELING ISLAND": {
     "normal": "COCOS (KEELING) ISLANDS",
     "name": "科科斯（基林）群岛",
@@ -2688,6 +2716,13 @@
     "num": "384"
   },
   "COSTA DE MARFIL": {
+    "normal": "CÔTE D'IVOIRE",
+    "name": "科特迪瓦",
+    "code": "CI",
+    "code3": "CIV",
+    "num": "384"
+  },
+  "COSTA DE MARFIL COTE D IVOIRE": {
     "normal": "CÔTE D'IVOIRE",
     "name": "科特迪瓦",
     "code": "CI",
@@ -3947,6 +3982,13 @@
     "code3": "FLK",
     "num": "238"
   },
+  "FALKLAND ISLANDS ISLAS MALVINAS": {
+    "normal": "FALKLAND ISLANDS (MALVINAS)",
+    "name": "福克兰群岛（马尔维纳斯）",
+    "code": "FK",
+    "code3": "FLK",
+    "num": "238"
+  },
   "FALKLAND ISLANDS MA": {
     "normal": "FALKLAND ISLANDS (MALVINAS)",
     "name": "福克兰群岛（马尔维纳斯）",
@@ -4067,6 +4109,13 @@
     "num": "234"
   },
   "FEROE ISLAS": {
+    "normal": "FAROE ISLANDS",
+    "name": "法罗群岛",
+    "code": "FO",
+    "code3": "FRO",
+    "num": "234"
+  },
+  "FEROE ISLAS DINAMARCA": {
     "normal": "FAROE ISLANDS",
     "name": "法罗群岛",
     "code": "FO",
@@ -4269,6 +4318,13 @@
     "code3": "FRA",
     "num": "250"
   },
+  "FREE ZONES OF PERU": {
+    "normal": "PERU",
+    "name": "秘鲁",
+    "code": "PE",
+    "code3": "PER",
+    "num": "604"
+  },
   "FRENCH GUI": {
     "normal": "FRENCH GUIANA",
     "name": "法属圭亚那",
@@ -4444,6 +4500,13 @@
     "code3": "GEO",
     "num": "268"
   },
+  "GEORGIA DEL SUR Y SANDWICH DEL SUR ISLAS": {
+    "normal": "SOUTH GEORGIA AND THE SOUTH SANDWICH ISLANDS",
+    "name": "南乔治亚岛和南桑威奇群岛",
+    "code": "GS",
+    "code3": "SGS",
+    "num": "239"
+  },
   "GEORGIA DO SUL E SANDWICH DO SUL ILHAS": {
     "normal": "SOUTH GEORGIA AND THE SOUTH SANDWICH ISLANDS",
     "name": "南乔治亚岛和南桑威奇群岛",
@@ -4543,6 +4606,13 @@
     "num": "292"
   },
   "GIBRALTAR": {
+    "normal": "GIBRALTAR",
+    "name": "直布罗陀",
+    "code": "GI",
+    "code3": "GIB",
+    "num": "292"
+  },
+  "GIBRALTAR REINO UNIDO": {
     "normal": "GIBRALTAR",
     "name": "直布罗陀",
     "code": "GI",
@@ -4655,6 +4725,13 @@
     "num": "316"
   },
   "GUADALUPE": {
+    "normal": "GUADELOUPE",
+    "name": "瓜德罗普",
+    "code": "GP",
+    "code3": "GLP",
+    "num": "312"
+  },
+  "GUADALUPE FRANCIA": {
     "normal": "GUADELOUPE",
     "name": "瓜德罗普",
     "code": "GP",
@@ -4844,6 +4921,13 @@
     "num": "332"
   },
   "HEARD AND MC DONALD": {
+    "normal": "HEARD ISLAND AND MCDONALD ISLANDS",
+    "name": "赫德岛和麦克唐纳群岛",
+    "code": "HM",
+    "code3": "HMD",
+    "num": "334"
+  },
+  "HEARD AND MC DONALD ISLANDS": {
     "normal": "HEARD ISLAND AND MCDONALD ISLANDS",
     "name": "赫德岛和麦克唐纳群岛",
     "code": "HM",
@@ -5298,6 +5382,13 @@
     "code3": "IRN",
     "num": "364"
   },
+  "IRAN REPUBLICA ISLAMICA DEL": {
+    "normal": "IRAN",
+    "name": "伊朗",
+    "code": "IR",
+    "code3": "IRN",
+    "num": "364"
+  },
   "IRAQ": {
     "normal": "IRAQ",
     "name": "伊拉克",
@@ -5577,6 +5668,13 @@
     "code": "PN",
     "code3": "PCN",
     "num": "612"
+  },
+  "ISLAS REUNION": {
+    "normal": "REUNION",
+    "name": "留尼汪",
+    "code": "RE",
+    "code3": "REU",
+    "num": "638"
   },
   "ISLAS SALOM N": {
     "normal": "SOLOMON ISLANDS",
@@ -6167,6 +6265,13 @@
     "num": "408"
   },
   "KOREA DEM PEOPLE S REP OF": {
+    "normal": "NORTH KOREA",
+    "name": "朝鲜",
+    "code": "KP",
+    "code3": "PRK",
+    "num": "408"
+  },
+  "KOREA DEMOCRATIC PE": {
     "normal": "NORTH KOREA",
     "name": "朝鲜",
     "code": "KP",
@@ -7076,6 +7181,13 @@
     "code3": "MKD",
     "num": "807"
   },
+  "MACEDONIA THE FORME": {
+    "normal": "NORTH MACEDONIA",
+    "name": "北马其顿",
+    "code": "MK",
+    "code3": "MKD",
+    "num": "807"
+  },
   "MACEDONIA THE FORMER": {
     "normal": "NORTH MACEDONIA",
     "name": "北马其顿",
@@ -7280,6 +7392,13 @@
     "num": "238"
   },
   "MARIANAS DE NORTE ISLAS": {
+    "normal": "NORTHERN MARIANA ISLANDS",
+    "name": "北马里亚纳群岛",
+    "code": "MP",
+    "code3": "MNP",
+    "num": "580"
+  },
+  "MARIANAS DEL NORTE ISLAS": {
     "normal": "NORTHERN MARIANA ISLANDS",
     "name": "北马里亚纳群岛",
     "code": "MP",
@@ -7986,6 +8105,13 @@
     "code3": "CXR",
     "num": "162"
   },
+  "NAVIDAD ISLA AUSTRALIA": {
+    "normal": "CHRISTMAS ISLAND",
+    "name": "圣诞岛",
+    "code": "CX",
+    "code3": "CXR",
+    "num": "162"
+  },
   "NAVIDAD ISLA DE": {
     "normal": "CHRISTMAS ISLAND",
     "name": "圣诞岛",
@@ -8210,6 +8336,13 @@
     "code3": "NIU",
     "num": "570"
   },
+  "NIUE NUEVA ZELANDIA": {
+    "normal": "NIUE",
+    "name": "纽埃",
+    "code": "NU",
+    "code3": "NIU",
+    "num": "570"
+  },
   "NIUE SAVAGE ISLA": {
     "normal": "NIUE",
     "name": "纽埃",
@@ -8400,6 +8533,13 @@
     "num": "524"
   },
   "NUEVA CALEDONIA": {
+    "normal": "NEW CALEDONIA",
+    "name": "新喀里多尼亚",
+    "code": "NC",
+    "code3": "NCL",
+    "num": "540"
+  },
+  "NUEVA CALEDONIA FRANCIA": {
     "normal": "NEW CALEDONIA",
     "name": "新喀里多尼亚",
     "code": "NC",
@@ -8848,6 +8988,13 @@
     "num": "156"
   },
   "PERU": {
+    "normal": "PERU",
+    "name": "秘鲁",
+    "code": "PE",
+    "code3": "PER",
+    "num": "604"
+  },
+  "PERU ZONAS FRANCAS": {
     "normal": "PERU",
     "name": "秘鲁",
     "code": "PE",
@@ -9960,6 +10107,13 @@
     "code3": "REU",
     "num": "638"
   },
+  "REUNION FRANCIA": {
+    "normal": "REUNION",
+    "name": "留尼汪",
+    "code": "RE",
+    "code3": "REU",
+    "num": "638"
+  },
   "REUNION ISLA": {
     "normal": "REUNION",
     "name": "留尼汪",
@@ -10052,6 +10206,13 @@
     "num": "643"
   },
   "RUSIA FEDERACIA N RUSA": {
+    "normal": "RUSSIA",
+    "name": "俄罗斯",
+    "code": "RU",
+    "code3": "RUS",
+    "num": "643"
+  },
+  "RUSIA FEDERACION": {
     "normal": "RUSSIA",
     "name": "俄罗斯",
     "code": "RU",
@@ -10435,6 +10596,13 @@
     "code": "WS",
     "code3": "WSM",
     "num": "882"
+  },
+  "SAMOA NORTEAMERICANA": {
+    "normal": "AMERICAN SAMOA",
+    "name": "美属萨摩亚",
+    "code": "AS",
+    "code3": "ASM",
+    "num": "016"
   },
   "SAMOA OCC": {
     "normal": "SAMOA",
@@ -10912,6 +11080,13 @@
     "code3": "SRB",
     "num": "688"
   },
+  "SERBIA AND MONTENEGR": {
+    "normal": "SERBIA AND MONTENEGRO",
+    "name": "塞尔维亚和黑山",
+    "code": "CS",
+    "code3": "SCG",
+    "num": "891"
+  },
   "SERBIA AND MONTENEGRO": {
     "normal": "SERBIA AND MONTENEGRO",
     "name": "塞尔维亚和黑山",
@@ -11016,6 +11191,13 @@
     "code": "SL",
     "code3": "SLE",
     "num": "694"
+  },
+  "SIN MAARTEN": {
+    "normal": "SINT MAARTEN (DUTCH PART)",
+    "name": "荷属圣马丁",
+    "code": "SX",
+    "code3": "SXM",
+    "num": "534"
   },
   "SINGAPORE": {
     "normal": "SINGAPORE",
@@ -12312,6 +12494,13 @@
     "code3": "IOT",
     "num": "086"
   },
+  "TERRIT BRITANICO DEL OCEANO INDICO REINO UNIDO": {
+    "normal": "BRITISH INDIAN OCEAN TERRITORY",
+    "name": "英属印度洋领地",
+    "code": "IO",
+    "code3": "IOT",
+    "num": "086"
+  },
   "TERRITAUTONOMOS DE PALESTINA": {
     "normal": "PALESTINE",
     "name": "巴勒斯坦",
@@ -13180,6 +13369,13 @@
     "code3": "UKR",
     "num": "804"
   },
+  "ULTRAMARINAS MENORES ISLAS EE UU": {
+    "normal": "UNITED STATES MINOR OUTLYING ISLANDS",
+    "name": "美国本土外小岛屿",
+    "code": "UM",
+    "code3": "UMI",
+    "num": "581"
+  },
   "UMEN CIUDAD DE PANAMA": {
     "normal": "PANAMA",
     "name": "巴拿马",
@@ -13837,6 +14033,13 @@
     "code": "VG",
     "code3": "VGB",
     "num": "092"
+  },
+  "VIRGENES ISLAS NORTEAMERICANAS": {
+    "normal": "UNITED STATES VIRGIN ISLANDS",
+    "name": "美属维尔京群岛",
+    "code": "VI",
+    "code3": "VIR",
+    "num": "850"
   },
   "VIRGENES ISLAS REINO UNIDO": {
     "normal": "VIRGIN ISLANDS (BRITISH)",
