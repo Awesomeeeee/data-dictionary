@@ -1021,6 +1021,13 @@
     "code3": "BLR",
     "num": "112"
   },
+  "BIELORRUSIA BELARUS": {
+    "normal": "BELARUS",
+    "name": "白俄罗斯",
+    "code": "BY",
+    "code3": "BLR",
+    "num": "112"
+  },
   "BIELORRUSIA REP BLICA DE": {
     "normal": "BELARUS",
     "name": "白俄罗斯",
@@ -5473,6 +5480,13 @@
     "code3": "VIR",
     "num": "850"
   },
+  "ISLA ASCENCION": {
+    "normal": "SAINT HELENA, ASCENSION AND TRISTAN DA CUNHA",
+    "name": "圣赫勒拿、阿森松和特里斯坦-达库尼亚",
+    "code": "SH",
+    "code3": "SHN",
+    "num": "654"
+  },
   "ISLA DE MAN": {
     "normal": "ISLE OF MAN",
     "name": "马恩岛",
@@ -5843,6 +5857,13 @@
     "code": "VG",
     "code3": "VGB",
     "num": "092"
+  },
+  "ISLAS VIRGENES DE ESTADOS UNIDOS": {
+    "normal": "UNITED STATES VIRGIN ISLANDS",
+    "name": "美属维尔京群岛",
+    "code": "VI",
+    "code3": "VIR",
+    "num": "850"
   },
   "ISLAS VIRGENES DE LOS ESTADOS UNIDOS": {
     "normal": "UNITED STATES VIRGIN ISLANDS",
@@ -9820,6 +9841,13 @@
     "code3": "MKD",
     "num": "807"
   },
+  "REP POPULAR DEMOCRATICA DE COREA": {
+    "normal": "NORTH KOREA",
+    "name": "朝鲜",
+    "code": "KP",
+    "code3": "PRK",
+    "num": "408"
+  },
   "REP YEMEN": {
     "normal": "YEMEN",
     "name": "也门",
@@ -9910,6 +9938,13 @@
     "code": "CG",
     "code3": "COG",
     "num": "178"
+  },
+  "REPUBLICA ARABE DE SIRIA": {
+    "normal": "SYRIA",
+    "name": "叙利亚",
+    "code": "SY",
+    "code3": "SYR",
+    "num": "760"
   },
   "REPUBLICA ARABE SIRIA": {
     "normal": "SYRIA",
