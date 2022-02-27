@@ -10597,6 +10597,13 @@
     "code3": "BLM",
     "num": "652"
   },
+  "SAINT BARTHOLOMEW": {
+    "normal": "SAINT BARTHELEMY",
+    "name": "圣巴泰勒米",
+    "code": "BL",
+    "code3": "BLM",
+    "num": "652"
+  },
   "SAINT BARTHΘLEMY": {
     "normal": "SAINT BARTHELEMY",
     "name": "圣巴泰勒米",
