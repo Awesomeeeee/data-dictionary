@@ -3149,6 +3149,13 @@
     "code3": "PRK",
     "num": "408"
   },
+  "DEMOCRATIC PEOPLES REPUBLIC OF KOREA": {
+    "normal": "NORTH KOREA",
+    "name": "朝鲜",
+    "code": "KP",
+    "code3": "PRK",
+    "num": "408"
+  },
   "DEMOCRATIC REP OF THE CONGO": {
     "normal": "CONGO (KINSHASA)",
     "name": "刚果（金）",
@@ -10591,13 +10598,6 @@
     "num": "652"
   },
   "SAINT BARTHOLEMY": {
-    "normal": "SAINT BARTHELEMY",
-    "name": "圣巴泰勒米",
-    "code": "BL",
-    "code3": "BLM",
-    "num": "652"
-  },
-  "SAINT BARTHOLOMEW": {
     "normal": "SAINT BARTHELEMY",
     "name": "圣巴泰勒米",
     "code": "BL",
