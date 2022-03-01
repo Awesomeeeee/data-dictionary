@@ -10654,11 +10654,11 @@
     "num": "659"
   },
   "SAINT KITTS NEVIS": {
-    "normal": "",
-    "name": "",
-    "code": "",
-    "code3": "",
-    "num": ""
+    "normal": "SAINT KITTS AND NEVIS",
+    "name": "圣基茨和尼维斯",
+    "code": "KN",
+    "code3": "KNA",
+    "num": "659"
   },
   "SAINT KITTS Y NEVIS": {
     "normal": "SAINT KITTS AND NEVIS",
