@@ -1112,6 +1112,13 @@
     "code3": "BOL",
     "num": "068"
   },
+  "BOLIVIA PLURINATIONAL STATE OF": {
+    "normal": "BOLIVIA",
+    "name": "玻利维亚",
+    "code": "BO",
+    "code3": "BOL",
+    "num": "068"
+  },
   "BOLIVIA REIMPORTACIONES": {
     "normal": "BOLIVIA",
     "name": "玻利维亚",
@@ -1959,6 +1966,13 @@
     "code3": "CAF",
     "num": "140"
   },
+  "CETE D IVOIRE": {
+    "normal": "CÔTE D'IVOIRE",
+    "name": "科特迪瓦",
+    "code": "CI",
+    "code3": "CIV",
+    "num": "384"
+  },
   "CF CENTRAL AFRICA REPUBLIC": {
     "normal": "CENTRAL AFRICAN REPUBLIC",
     "name": "中非",
@@ -2028,6 +2042,20 @@
     "code": "HK",
     "code3": "HKG",
     "num": "344"
+  },
+  "CHINA HONG KONG SPECIAL ADMINISTRATIVE REGION": {
+    "normal": "CHINA HONGKONG",
+    "name": "中国香港",
+    "code": "HK",
+    "code3": "HKG",
+    "num": "344"
+  },
+  "CHINA MACAO SPECIAL ADMINISTRATIVE REGION": {
+    "normal": "CHINA MACAO",
+    "name": "中国澳门",
+    "code": "MO",
+    "code3": "MAC",
+    "num": "446"
   },
   "CHINA MAINLAND": {
     "normal": "CHINA",
@@ -12907,6 +12935,13 @@
     "code3": "MKD",
     "num": "807"
   },
+  "THE FORMER YUGOSLAV REPUBLIC OF MACEDONIA": {
+    "normal": "YUGOSLAVIA",
+    "name": "南斯拉夫",
+    "code": "YU",
+    "code3": "YUG",
+    "num": "891"
+  },
   "THE IVORY COAST": {
     "normal": "CÔTE D'IVOIRE",
     "name": "科特迪瓦",
@@ -16238,6 +16273,13 @@
     "code": "FR",
     "code3": "FRA",
     "num": "250"
+  },
+  "ФРАНЦУЗСКАЯ ПОЛИНЕЗИЯ": {
+    "normal": "FRENCH POLYNESIA",
+    "name": "法属波利尼西亚",
+    "code": "PF",
+    "code3": "PYF",
+    "num": "258"
   },
   "ХОРВАТИЯ": {
     "normal": "CROATIA",
