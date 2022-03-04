@@ -4689,6 +4689,13 @@
     "code3": "GBR",
     "num": "826"
   },
+  "GREAT BRITAIN UK": {
+    "normal": "UNITED KINGDOM",
+    "name": "英国",
+    "code": "GB",
+    "code3": "GBR",
+    "num": "826"
+  },
   "GRECIA": {
     "normal": "GREECE",
     "name": "希腊",
@@ -4940,6 +4947,13 @@
     "code": "HT",
     "code3": "HTI",
     "num": "332"
+  },
+  "HEARD AND MACDONALD ISLANDS": {
+    "normal": "HEARD ISLAND AND MCDONALD ISLANDS",
+    "name": "赫德岛和麦克唐纳群岛",
+    "code": "HM",
+    "code3": "HMD",
+    "num": "334"
   },
   "HEARD AND MC DONALD": {
     "normal": "HEARD ISLAND AND MCDONALD ISLANDS",
@@ -6391,6 +6405,13 @@
     "num": "408"
   },
   "KOREA DEM PEOPLE S REP OF": {
+    "normal": "NORTH KOREA",
+    "name": "朝鲜",
+    "code": "KP",
+    "code3": "PRK",
+    "num": "408"
+  },
+  "KOREA DEMOCRATIC P": {
     "normal": "NORTH KOREA",
     "name": "朝鲜",
     "code": "KP",
@@ -8371,6 +8392,13 @@
     "code3": "NZL",
     "num": "554"
   },
+  "NEW ZEALAND AOTEAROA": {
+    "normal": "NEW ZEALAND",
+    "name": "新西兰",
+    "code": "NZ",
+    "code3": "NZL",
+    "num": "554"
+  },
   "NEW ZEALAND EXCLUDES WESTERN SAMOA": {
     "normal": "NEW ZEALAND",
     "name": "新西兰",
@@ -8967,6 +8995,13 @@
     "num": "275"
   },
   "PALESTINE STATE": {
+    "normal": "PALESTINE",
+    "name": "巴勒斯坦",
+    "code": "PS",
+    "code3": "PSE",
+    "num": "275"
+  },
+  "PALESTINIAN": {
     "normal": "PALESTINE",
     "name": "巴勒斯坦",
     "code": "PS",
@@ -10625,6 +10660,13 @@
     "code3": "SHN",
     "num": "654"
   },
+  "SAINT HELENA ASCENSION AND TRISTAN": {
+    "normal": "SAINT HELENA, ASCENSION AND TRISTAN DA CUNHA",
+    "name": "圣赫勒拿、阿森松和特里斯坦-达库尼亚",
+    "code": "SH",
+    "code3": "SHN",
+    "num": "654"
+  },
   "SAINT HELENA UK": {
     "normal": "SAINT HELENA, ASCENSION AND TRISTAN DA CUNHA",
     "name": "圣赫勒拿、阿森松和特里斯坦-达库尼亚",
@@ -11277,6 +11319,13 @@
     "num": "891"
   },
   "SERBIA AND MONTENEGRO": {
+    "normal": "SERBIA AND MONTENEGRO",
+    "name": "塞尔维亚和黑山",
+    "code": "CS",
+    "code3": "SCG",
+    "num": "891"
+  },
+  "SERBIA AND MONTENEGRO AND MONTENEGRO": {
     "normal": "SERBIA AND MONTENEGRO",
     "name": "塞尔维亚和黑山",
     "code": "CS",
