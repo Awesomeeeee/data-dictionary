@@ -3002,6 +3002,13 @@
     "code3": "CUB",
     "num": "192"
   },
+  "CURAAAO": {
+    "normal": "CURAÇAO",
+    "name": "库拉索",
+    "code": "CW",
+    "code3": "CUW",
+    "num": "531"
+  },
   "CURACAO": {
     "normal": "CURAÇAO",
     "name": "库拉索",
@@ -8777,6 +8784,13 @@
     "code3": "PSE",
     "num": "275"
   },
+  "OCCUPIED PALESTINIAN TERRITORY": {
+    "normal": "PALESTINE",
+    "name": "巴勒斯坦",
+    "code": "PS",
+    "code3": "PSE",
+    "num": "275"
+  },
   "OCEANIA AUSTRALIANA": {
     "normal": "AUSTRALIA",
     "name": "澳大利亚",
@@ -9527,6 +9541,13 @@
     "num": "638"
   },
   "R UNION": {
+    "normal": "REUNION",
+    "name": "留尼汪",
+    "code": "RE",
+    "code3": "REU",
+    "num": "638"
+  },
+  "R UUNION": {
     "normal": "REUNION",
     "name": "留尼汪",
     "code": "RE",
