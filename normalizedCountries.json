@@ -587,6 +587,13 @@
     "code3": "AZE",
     "num": "031"
   },
+  "AZERBAI JAN": {
+    "normal": "AZERBAIJAN",
+    "name": "阿塞拜疆",
+    "code": "AZ",
+    "code3": "AZE",
+    "num": "031"
+  },
   "AZERBAIDJAN": {
     "normal": "AZERBAIJAN",
     "name": "阿塞拜疆",
@@ -8490,6 +8497,13 @@
     "code3": "NPL",
     "num": "524"
   },
+  "NEPAL FDR": {
+    "normal": "NEPAL",
+    "name": "尼泊尔",
+    "code": "NP",
+    "code3": "NPL",
+    "num": "524"
+  },
   "NEPAL NP": {
     "normal": "NEPAL",
     "name": "尼泊尔",
@@ -10758,6 +10772,13 @@
     "code3": "RUS",
     "num": "643"
   },
+  "RUSSIAN": {
+    "normal": "RUSSIA",
+    "name": "俄罗斯",
+    "code": "RU",
+    "code3": "RUS",
+    "num": "643"
+  },
   "RUSSIAN FEDERATION": {
     "normal": "RUSSIA",
     "name": "俄罗斯",
@@ -12768,6 +12789,13 @@
     "num": "158"
   },
   "TAIWAN FORMOSA": {
+    "normal": "CHINA TAIWAN",
+    "name": "中国台湾",
+    "code": "TW",
+    "code3": "TWN",
+    "num": "158"
+  },
+  "TAIWAN PROV OF CHINA": {
     "normal": "CHINA TAIWAN",
     "name": "中国台湾",
     "code": "TW",
@@ -15413,6 +15441,13 @@
     "code3": "IND",
     "num": "356"
   },
+  "БРИТАНСЬКА ТЕРИТОРIЯ В IНДIЙСЬКОМУ ОКЕАНI": {
+    "normal": "BRITISH INDIAN OCEAN TERRITORY",
+    "name": "英属印度洋领地",
+    "code": "IO",
+    "code3": "IOT",
+    "num": "086"
+  },
   "БРУНЕЙ ДАРУССАЛАМ": {
     "normal": "BRUNEI",
     "name": "文莱",
@@ -15454,6 +15489,13 @@
     "code": "VG",
     "code3": "VGB",
     "num": "092"
+  },
+  "ВIРГIНСЬКI ОСТРОВИ США": {
+    "normal": "UNITED STATES VIRGIN ISLANDS",
+    "name": "美属维尔京群岛",
+    "code": "VI",
+    "code3": "VIR",
+    "num": "850"
   },
   "ВIРМЕНIЯ": {
     "normal": "ARMENIA",
@@ -15741,6 +15783,13 @@
     "code": "DJ",
     "code3": "DJI",
     "num": "262"
+  },
+  "ДЖЕРСI": {
+    "normal": "JERSEY",
+    "name": "泽西",
+    "code": "JE",
+    "code3": "JEY",
+    "num": "832"
   },
   "ДЖИБУТИ": {
     "normal": "DJIBOUTI",
@@ -16260,6 +16309,13 @@
     "code3": "LVA",
     "num": "428"
   },
+  "ЛЕСОТО": {
+    "normal": "LESOTHO",
+    "name": "莱索托",
+    "code": "LS",
+    "code3": "LSO",
+    "num": "426"
+  },
   "ЛИБЕРИЯ": {
     "normal": "LIBERIA",
     "name": "利比里亚",
@@ -16574,6 +16630,13 @@
     "code": "NA",
     "code3": "NAM",
     "num": "516"
+  },
+  "НАУРУ": {
+    "normal": "NAURU",
+    "name": "瑙鲁",
+    "code": "NR",
+    "code3": "NRU",
+    "num": "520"
   },
   "НЕПАЛ": {
     "normal": "NEPAL",
@@ -16988,12 +17051,26 @@
     "code3": "SAU",
     "num": "682"
   },
+  "СВАЗIЛЕНД": {
+    "normal": "ESWATINI",
+    "name": "斯威士兰",
+    "code": "SZ",
+    "code3": "SWZ",
+    "num": "748"
+  },
   "СВЯТАЯ ЕЛЕНА": {
     "normal": "SAINT HELENA, ASCENSION AND TRISTAN DA CUNHA",
     "name": "圣赫勒拿、阿森松和特里斯坦-达库尼亚",
     "code": "SH",
     "code3": "SHN",
     "num": "654"
+  },
+  "СВЯТИЙ ПРЕСТОЛ ДЕРЖАВА МIСТО ВАТИКАН": {
+    "normal": "VATICAN CITY (HOLY SEE)",
+    "name": "梵蒂冈",
+    "code": "VA",
+    "code3": "VAT",
+    "num": "336"
   },
   "СЕВЕРНАЯ МАКЕДОНИЯ": {
     "normal": "NORTH MACEDONIA",
@@ -17366,6 +17443,13 @@
     "code3": "UKR",
     "num": "804"
   },
+  "УОЛЛIС I ФУТУНА": {
+    "normal": "WALLIS AND FUTUNA",
+    "name": "瓦利斯和富图纳",
+    "code": "WF",
+    "code3": "WLF",
+    "num": "876"
+  },
   "УРУГВАЙ": {
     "normal": "URUGUAY",
     "name": "乌拉圭",
@@ -17449,6 +17533,13 @@
     "code": "GF",
     "code3": "GUF",
     "num": "254"
+  },
+  "ФРАНЦУЗЬКА ПОЛIНЕЗIЯ": {
+    "normal": "FRENCH POLYNESIA",
+    "name": "法属波利尼西亚",
+    "code": "PF",
+    "code3": "PYF",
+    "num": "258"
   },
   "ХОРВАТIЯ": {
     "normal": "CROATIA",
