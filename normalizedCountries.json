@@ -7083,6 +7083,13 @@
     "code3": "LVA",
     "num": "428"
   },
+  "LETONIA REP BLICA DE": {
+    "normal": "LATVIA",
+    "name": "拉脱维亚",
+    "code": "LV",
+    "code3": "LVA",
+    "num": "428"
+  },
   "LETONIA REPUBLICA DA": {
     "normal": "LATVIA",
     "name": "拉脱维亚",
@@ -7231,6 +7238,13 @@
     "num": "440"
   },
   "LITUANIA": {
+    "normal": "LITHUANIA",
+    "name": "立陶宛",
+    "code": "LT",
+    "code3": "LTU",
+    "num": "440"
+  },
+  "LITUANIA REP BLICA DE": {
     "normal": "LITHUANIA",
     "name": "立陶宛",
     "code": "LT",
@@ -8057,6 +8071,13 @@
     "num": "498"
   },
   "MOLDAVIA MD": {
+    "normal": "MOLDOVA",
+    "name": "摩尔多瓦",
+    "code": "MD",
+    "code3": "MDA",
+    "num": "498"
+  },
+  "MOLDAVIA REP BLICA DE": {
     "normal": "MOLDOVA",
     "name": "摩尔多瓦",
     "code": "MD",
