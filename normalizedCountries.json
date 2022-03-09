@@ -15497,6 +15497,13 @@
     "code3": "BDI",
     "num": "108"
   },
+  "БУРУНДИ": {
+    "normal": "BURUNDI",
+    "name": "布隆迪",
+    "code": "BI",
+    "code3": "BDI",
+    "num": "108"
+  },
   "В ЄТНАМ": {
     "normal": "VIETNAM",
     "name": "越南",
@@ -16302,6 +16309,13 @@
     "code3": "LAO",
     "num": "418"
   },
+  "ЛАОССКАЯ НАРОДНО ДЕМОКРАТИЧ РЕСПУБЛ": {
+    "normal": "LAOS",
+    "name": "老挝",
+    "code": "LA",
+    "code3": "LAO",
+    "num": "418"
+  },
   "ЛАОССКАЯ НАРОДНО ДЕМОКРАТИЧЕСКАЯ РЕСПУБЛИКА": {
     "normal": "LAOS",
     "name": "老挝",
@@ -16861,6 +16875,13 @@
     "code": "PA",
     "code3": "PAN",
     "num": "591"
+  },
+  "ПАПСКИЙ ПРЕСТОЛ ГОС ГОРОД ВАТИКАН": {
+    "normal": "VATICAN CITY (HOLY SEE)",
+    "name": "梵蒂冈",
+    "code": "VA",
+    "code3": "VAT",
+    "num": "336"
   },
   "ПАПУА НОВА ГВIНЕЯ": {
     "normal": "PAPUA NEW GUINEA",
