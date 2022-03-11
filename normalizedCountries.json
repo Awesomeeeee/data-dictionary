@@ -265,6 +265,13 @@
     "code3": "AIA",
     "num": "660"
   },
+  "ANQUILLA": {
+    "normal": "ANGUILLA",
+    "name": "安圭拉",
+    "code": "AI",
+    "code3": "AIA",
+    "num": "660"
+  },
   "ANTARCTICA": {
     "normal": "ANTARCTICA",
     "name": "南极洲",
@@ -7923,6 +7930,13 @@
     "code3": "MTQ",
     "num": "474"
   },
+  "MARTINICA FRANCIA": {
+    "normal": "MARTINIQUE",
+    "name": "马提尼克",
+    "code": "MQ",
+    "code3": "MTQ",
+    "num": "474"
+  },
   "MARTINIQUE": {
     "normal": "MARTINIQUE",
     "name": "马提尼克",
@@ -9667,6 +9681,13 @@
     "num": "258"
   },
   "POLINESIA FRANCESA": {
+    "normal": "FRENCH POLYNESIA",
+    "name": "法属波利尼西亚",
+    "code": "PF",
+    "code3": "PYF",
+    "num": "258"
+  },
+  "POLINESIA FRANCESA FRANCIA": {
     "normal": "FRENCH POLYNESIA",
     "name": "法属波利尼西亚",
     "code": "PF",
