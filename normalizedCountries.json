@@ -965,6 +965,13 @@
     "code3": "BEN",
     "num": "204"
   },
+  "BENIN REPUBLIC OF": {
+    "normal": "BENIN",
+    "name": "贝宁",
+    "code": "BJ",
+    "code3": "BEN",
+    "num": "204"
+  },
   "BENIN REPUBLICA DE": {
     "normal": "BENIN",
     "name": "贝宁",
@@ -3057,6 +3064,13 @@
     "code": "CU",
     "code3": "CUB",
     "num": "192"
+  },
+  "CURA CAO": {
+    "normal": "CURAÇAO",
+    "name": "库拉索",
+    "code": "CW",
+    "code3": "CUW",
+    "num": "531"
   },
   "CURAAAO": {
     "normal": "CURAÇAO",
@@ -8735,6 +8749,13 @@
     "code3": "NCL",
     "num": "540"
   },
+  "NEW GINEA": {
+    "normal": "PAPUA NEW GUINEA",
+    "name": "巴布亚新几内亚",
+    "code": "PG",
+    "code3": "PNG",
+    "num": "598"
+  },
   "NEW ISRAEL": {
     "normal": "ISRAEL",
     "name": "以色列",
@@ -11024,6 +11045,13 @@
     "code3": "RWA",
     "num": "646"
   },
+  "RWANDAN REPUBLIC": {
+    "normal": "RWANDA",
+    "name": "卢旺达",
+    "code": "RW",
+    "code3": "RWA",
+    "num": "646"
+  },
   "RÉUNION": {
     "normal": "REUNION",
     "name": "留尼汪",
@@ -11450,6 +11478,13 @@
     "code": "SX",
     "code3": "SXM",
     "num": "534"
+  },
+  "SAN MARTIN FRENCH PART": {
+    "normal": "SAINT MARTIN (FRENCH PART)",
+    "name": "法属圣马丁",
+    "code": "MF",
+    "code3": "MAF",
+    "num": "663"
   },
   "SAN MARTIN PARTE FRANCESA": {
     "normal": "SAINT MARTIN (FRENCH PART)",
@@ -13783,6 +13818,13 @@
     "num": "788"
   },
   "TURCAS E CAICOS ILHAS": {
+    "normal": "TURKS AND CAICOS ISLANDS",
+    "name": "特克斯和凯科斯群岛",
+    "code": "TC",
+    "code3": "TCA",
+    "num": "796"
+  },
+  "TURCAS IS": {
     "normal": "TURKS AND CAICOS ISLANDS",
     "name": "特克斯和凯科斯群岛",
     "code": "TC",
