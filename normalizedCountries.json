@@ -2575,6 +2575,13 @@
     "code3": "COD",
     "num": "180"
   },
+  "CONGO THE DEMOCRATI": {
+    "normal": "CONGO (KINSHASA)",
+    "name": "刚果（金）",
+    "code": "CD",
+    "code3": "COD",
+    "num": "180"
+  },
   "CONGO THE DEMOCRATIC": {
     "normal": "CONGO (KINSHASA)",
     "name": "刚果（金）",
@@ -4471,6 +4478,20 @@
     "code": "FR",
     "code3": "FRA",
     "num": "250"
+  },
+  "FREE ZONE ARGENTINA": {
+    "normal": "ARGENTINA",
+    "name": "阿根廷",
+    "code": "AR",
+    "code3": "ARG",
+    "num": "032"
+  },
+  "FREE ZONE BRAZIL": {
+    "normal": "BRAZIL",
+    "name": "巴西",
+    "code": "BR",
+    "code3": "BRA",
+    "num": "076"
   },
   "FREE ZONES OF PERU": {
     "normal": "PERU",
@@ -7440,6 +7461,13 @@
     "code3": "LUX",
     "num": "442"
   },
+  "LUXEMBOURG SOLO DUA": {
+    "normal": "LUXEMBOURG",
+    "name": "卢森堡",
+    "code": "LU",
+    "code3": "LUX",
+    "num": "442"
+  },
   "LUXEMBURGO": {
     "normal": "LUXEMBOURG",
     "name": "卢森堡",
@@ -8134,6 +8162,13 @@
     "num": "583"
   },
   "MICRONESIA FED STATES OF": {
+    "normal": "MICRONESIA",
+    "name": "密克罗尼西亚联邦",
+    "code": "FM",
+    "code3": "FSM",
+    "num": "583"
+  },
+  "MICRONESIA FEDERATE": {
     "normal": "MICRONESIA",
     "name": "密克罗尼西亚联邦",
     "code": "FM",
@@ -9478,6 +9513,13 @@
     "num": "591"
   },
   "PANAMA": {
+    "normal": "PANAMA",
+    "name": "巴拿马",
+    "code": "PA",
+    "code3": "PAN",
+    "num": "591"
+  },
+  "PANAMA CANAL ZONE": {
     "normal": "PANAMA",
     "name": "巴拿马",
     "code": "PA",
@@ -11360,6 +11402,13 @@
     "code3": "WSM",
     "num": "882"
   },
+  "SAMOA INDEPENDENT ST": {
+    "normal": "SAMOA",
+    "name": "萨摩亚",
+    "code": "WS",
+    "code3": "WSM",
+    "num": "882"
+  },
   "SAMOA NORTEAMERICANA": {
     "normal": "AMERICAN SAMOA",
     "name": "美属萨摩亚",
@@ -11655,6 +11704,13 @@
     "num": "336"
   },
   "SANTA SEDE LA": {
+    "normal": "VATICAN CITY (HOLY SEE)",
+    "name": "梵蒂冈",
+    "code": "VA",
+    "code3": "VAT",
+    "num": "336"
+  },
+  "SANTA SEDE VATICANO": {
     "normal": "VATICAN CITY (HOLY SEE)",
     "name": "梵蒂冈",
     "code": "VA",
