@@ -2113,6 +2113,13 @@
     "code3": "CHN",
     "num": "156"
   },
+  "CHINA REPUBLICA POPULAR DE": {
+    "normal": "CHINA",
+    "name": "中国",
+    "code": "CN",
+    "code3": "CHN",
+    "num": "156"
+  },
   "CHINA TAIWAN": {
     "normal": "CHINA TAIWAN",
     "name": "中国台湾",
@@ -4437,6 +4444,13 @@
     "code3": "FRA",
     "num": "250"
   },
+  "FRANCE METROPOLITAN": {
+    "normal": "FRANCE",
+    "name": "法国",
+    "code": "FR",
+    "code3": "FRA",
+    "num": "250"
+  },
   "FRANCIA": {
     "normal": "FRANCE",
     "name": "法国",
@@ -5193,6 +5207,13 @@
     "code3": "NLD",
     "num": "528"
   },
+  "HOLANDA PAISES BAJOS": {
+    "normal": "NETHERLANDS",
+    "name": "荷兰",
+    "code": "NL",
+    "code3": "NLD",
+    "num": "528"
+  },
   "HOLLAND": {
     "normal": "NETHERLANDS",
     "name": "荷兰",
@@ -5718,6 +5739,13 @@
     "code3": "LCA",
     "num": "662"
   },
+  "ISLA SANTO TOME Y PRINCIPE": {
+    "normal": "SAO TOME AND PRINCIPE",
+    "name": "圣多美和普林西比",
+    "code": "ST",
+    "code3": "STP",
+    "num": "678"
+  },
   "ISLA SVALBARD AND JAN MAYEN": {
     "normal": "SVALBARD AND JAN MAYEN",
     "name": "斯瓦尔巴和扬马延",
@@ -5934,6 +5962,13 @@
     "code": "CX",
     "code3": "CXR",
     "num": "162"
+  },
+  "ISLAS PALAU": {
+    "normal": "PALAU",
+    "name": "帕劳",
+    "code": "PW",
+    "code3": "PLW",
+    "num": "585"
   },
   "ISLAS PITCAIRN": {
     "normal": "PITCAIRN",
@@ -8007,6 +8042,13 @@
     "code3": "MDA",
     "num": "498"
   },
+  "METROPOLITANA FRANCIA": {
+    "normal": "FRANCE",
+    "name": "法国",
+    "code": "FR",
+    "code3": "FRA",
+    "num": "250"
+  },
   "MEXICAN": {
     "normal": "MEXICO",
     "name": "墨西哥",
@@ -9373,6 +9415,13 @@
     "num": "275"
   },
   "PALESTINIAN": {
+    "normal": "PALESTINE",
+    "name": "巴勒斯坦",
+    "code": "PS",
+    "code3": "PSE",
+    "num": "275"
+  },
+  "PALESTINIAN TERRITOR": {
     "normal": "PALESTINE",
     "name": "巴勒斯坦",
     "code": "PS",
@@ -12200,6 +12249,13 @@
     "code3": "ZAF",
     "num": "710"
   },
+  "SOUTH AFRICA REP": {
+    "normal": "SOUTH AFRICA",
+    "name": "南非",
+    "code": "ZA",
+    "code3": "ZAF",
+    "num": "710"
+  },
   "SOUTH AFRICA REP OF": {
     "normal": "SOUTH AFRICA",
     "name": "南非",
@@ -14810,6 +14866,13 @@
     "code": "VG",
     "code3": "VGB",
     "num": "092"
+  },
+  "VIRGENES ISLAS NORTEAMERICAN": {
+    "normal": "UNITED STATES VIRGIN ISLANDS",
+    "name": "美属维尔京群岛",
+    "code": "VI",
+    "code3": "VIR",
+    "num": "850"
   },
   "VIRGENES ISLAS NORTEAMERICANAS": {
     "normal": "UNITED STATES VIRGIN ISLANDS",
