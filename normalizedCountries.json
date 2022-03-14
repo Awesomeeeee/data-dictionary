@@ -2470,6 +2470,13 @@
     "code3": "COG",
     "num": "178"
   },
+  "CONGO CONGO BRAZZAVILLE": {
+    "normal": "CONGO (BRAZZAVILLE)",
+    "name": "刚果（布）",
+    "code": "CG",
+    "code3": "COG",
+    "num": "178"
+  },
   "CONGO DEM REP OF": {
     "normal": "CONGO (KINSHASA)",
     "name": "刚果（金）",
@@ -3884,6 +3891,13 @@
     "code3": "ESP",
     "num": "724"
   },
+  "ESPAQA": {
+    "normal": "SPAIN",
+    "name": "西班牙",
+    "code": "ES",
+    "code3": "ESP",
+    "num": "724"
+  },
   "ESPA脗楼A": {
     "normal": "SPAIN",
     "name": "西班牙",
@@ -3899,6 +3913,13 @@
     "num": "724"
   },
   "ESTADO FEDERADO DE MICRONESIA": {
+    "normal": "MICRONESIA",
+    "name": "密克罗尼西亚联邦",
+    "code": "FM",
+    "code3": "FSM",
+    "num": "583"
+  },
+  "ESTADOS FEDERADOS DE MICRONESIA": {
     "normal": "MICRONESIA",
     "name": "密克罗尼西亚联邦",
     "code": "FM",
@@ -5732,6 +5753,13 @@
     "code3": "MSR",
     "num": "500"
   },
+  "ISLA NAVIDAD AUSTRALIA": {
+    "normal": "CHRISTMAS ISLAND",
+    "name": "圣诞岛",
+    "code": "CX",
+    "code3": "CXR",
+    "num": "162"
+  },
   "ISLA NIUE": {
     "normal": "NIUE",
     "name": "纽埃",
@@ -6061,6 +6089,13 @@
     "code3": "TCA",
     "num": "796"
   },
+  "ISLAS TURKS Y CAICOS": {
+    "normal": "TURKS AND CAICOS ISLANDS",
+    "name": "特克斯和凯科斯群岛",
+    "code": "TC",
+    "code3": "TCA",
+    "num": "796"
+  },
   "ISLAS ULTRAMARINAS MENORES DE ESTADOS UNIDOS": {
     "normal": "UNITED STATES MINOR OUTLYING ISLANDS",
     "name": "美国本土外小岛屿",
@@ -6089,12 +6124,26 @@
     "code3": "VGB",
     "num": "092"
   },
+  "ISLAS VIRGENES BRITA": {
+    "normal": "VIRGIN ISLANDS (BRITISH)",
+    "name": "英属维尔京群岛",
+    "code": "VG",
+    "code3": "VGB",
+    "num": "092"
+  },
   "ISLAS VIRGENES BRITANICAS": {
     "normal": "VIRGIN ISLANDS (BRITISH)",
     "name": "英属维尔京群岛",
     "code": "VG",
     "code3": "VGB",
     "num": "092"
+  },
+  "ISLAS VIRGENES DE ES": {
+    "normal": "UNITED STATES VIRGIN ISLANDS",
+    "name": "美属维尔京群岛",
+    "code": "VI",
+    "code3": "VIR",
+    "num": "850"
   },
   "ISLAS VIRGENES DE ESTADOS UNIDOS": {
     "normal": "UNITED STATES VIRGIN ISLANDS",
@@ -11584,6 +11633,13 @@
     "code3": "VCT",
     "num": "670"
   },
+  "SAN VINCENTE Y LAS G": {
+    "normal": "SAINT VINCENT AND THE GRENADINES",
+    "name": "圣文森特和格林纳丁斯",
+    "code": "VC",
+    "code3": "VCT",
+    "num": "670"
+  },
   "SAN VINCENTE Y LAS GRANADINAS": {
     "normal": "SAINT VINCENT AND THE GRENADINES",
     "name": "圣文森特和格林纳丁斯",
@@ -13139,6 +13195,13 @@
     "num": "158"
   },
   "TAIWAN PROVINCE OF CHINA": {
+    "normal": "CHINA TAIWAN",
+    "name": "中国台湾",
+    "code": "TW",
+    "code3": "TWN",
+    "num": "158"
+  },
+  "TAIWAN PROVINCIA DE": {
     "normal": "CHINA TAIWAN",
     "name": "中国台湾",
     "code": "TW",
