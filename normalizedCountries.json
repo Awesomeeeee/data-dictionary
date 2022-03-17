@@ -1847,6 +1847,13 @@
     "code3": "CMR",
     "num": "120"
   },
+  "CAMROUN": {
+    "normal": "CAMEROON",
+    "name": "喀麦隆",
+    "code": "CM",
+    "code3": "CMR",
+    "num": "120"
+  },
   "CANAD": {
     "normal": "CANADA",
     "name": "加拿大",
@@ -5390,6 +5397,13 @@
     "num": "340"
   },
   "HONDURAS REPUBLIC OF": {
+    "normal": "HONDURAS",
+    "name": "洪都拉斯",
+    "code": "HN",
+    "code3": "HND",
+    "num": "340"
+  },
+  "HONDURS": {
     "normal": "HONDURAS",
     "name": "洪都拉斯",
     "code": "HN",
@@ -10107,6 +10121,13 @@
     "code3": "MCO",
     "num": "492"
   },
+  "PRTRICO": {
+    "normal": "PUERTO RICO",
+    "name": "波多黎各",
+    "code": "PR",
+    "code3": "PRI",
+    "num": "630"
+  },
   "PT PORTUGAL": {
     "normal": "PORTUGAL",
     "name": "葡萄牙",
@@ -11863,6 +11884,13 @@
     "code": "KN",
     "code3": "KNA",
     "num": "659"
+  },
+  "SANMARI": {
+    "normal": "SAN MARINO",
+    "name": "圣马力诺",
+    "code": "SM",
+    "code3": "SMR",
+    "num": "674"
   },
   "SANTA ELENA": {
     "normal": "SAINT HELENA, ASCENSION AND TRISTAN DA CUNHA",
@@ -13951,6 +13979,13 @@
     "num": "372"
   },
   "TIMOR DEL ESTE": {
+    "normal": "TIMOR-LESTE",
+    "name": "东帝汶",
+    "code": "TL",
+    "code3": "TLS",
+    "num": "626"
+  },
+  "TIMOR L": {
     "normal": "TIMOR-LESTE",
     "name": "东帝汶",
     "code": "TL",
