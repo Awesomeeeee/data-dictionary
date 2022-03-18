@@ -16043,6 +16043,13 @@
     "code3": "DZA",
     "num": "012"
   },
+  "АМЕРИКАНСКОЕ САМОА": {
+    "normal": "AMERICAN SAMOA",
+    "name": "美属萨摩亚",
+    "code": "AS",
+    "code3": "ASM",
+    "num": "016"
+  },
   "АМЕРИКАНСЬКЕ САМОА": {
     "normal": "AMERICAN SAMOA",
     "name": "美属萨摩亚",
@@ -17527,6 +17534,13 @@
     "code3": "LAO",
     "num": "418"
   },
+  "ЛАОССКАЯ НАРОДНО ДЕМОКРАТИЧЕСК": {
+    "normal": "LAOS",
+    "name": "老挝",
+    "code": "LA",
+    "code3": "LAO",
+    "num": "418"
+  },
   "ЛАОССКАЯ НАРОДНО ДЕМОКРАТИЧЕСКАЯ РЕСПУБЛИКА": {
     "normal": "LAOS",
     "name": "老挝",
@@ -18073,6 +18087,13 @@
     "code3": "NZL",
     "num": "554"
   },
+  "НОВАЯ КАЛЕДОНИЯ": {
+    "normal": "NEW CALEDONIA",
+    "name": "新喀里多尼亚",
+    "code": "NC",
+    "code3": "NCL",
+    "num": "540"
+  },
   "НОРВЕГIЯ": {
     "normal": "NORWAY",
     "name": "挪威",
@@ -18605,6 +18626,13 @@
     "code3": "BLM",
     "num": "652"
   },
+  "СЕН МАРТЕН": {
+    "normal": "SINT MAARTEN (DUTCH PART)",
+    "name": "荷属圣马丁",
+    "code": "SX",
+    "code3": "SXM",
+    "num": "534"
+  },
   "СЕНЕГАЛ": {
     "normal": "SENEGAL",
     "name": "塞内加尔",
@@ -18634,6 +18662,13 @@
     "num": "659"
   },
   "СЕНТ КІТС І НЕВІС": {
+    "normal": "SAINT KITTS AND NEVIS",
+    "name": "圣基茨和尼维斯",
+    "code": "KN",
+    "code3": "KNA",
+    "num": "659"
+  },
+  "СЕНТ КИТС И НЕВИС": {
     "normal": "SAINT KITTS AND NEVIS",
     "name": "圣基茨和尼维斯",
     "code": "KN",
@@ -19192,6 +19227,13 @@
     "code": "HR",
     "code3": "HRV",
     "num": "191"
+  },
+  "ЦЕНТРАЛЬНО АФРИКАНСКАЯ РЕСПУБЛ": {
+    "normal": "CENTRAL AFRICAN REPUBLIC",
+    "name": "中非",
+    "code": "CF",
+    "code3": "CAF",
+    "num": "140"
   },
   "ЦЕНТРАЛЬНО АФРИКАНСКАЯ РЕСПУБЛИКА": {
     "normal": "CENTRAL AFRICAN REPUBLIC",
