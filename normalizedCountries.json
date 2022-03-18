@@ -13824,6 +13824,13 @@
     "code3": "ATF",
     "num": "260"
   },
+  "TERRS MERIDIONALES FRANCESES": {
+    "normal": "FRENCH SOUTHERN TERRITORIES",
+    "name": "法属南部和南极领地",
+    "code": "TF",
+    "code3": "ATF",
+    "num": "260"
+  },
   "TG TOGO": {
     "normal": "TOGO",
     "name": "多哥",
