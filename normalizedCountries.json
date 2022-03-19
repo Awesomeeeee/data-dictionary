@@ -4164,6 +4164,13 @@
     "code3": "REU",
     "num": "638"
   },
+  "F GIANA": {
+    "normal": "FRENCH GUIANA",
+    "name": "法属圭亚那",
+    "code": "GF",
+    "code3": "GUF",
+    "num": "254"
+  },
   "FAEROE ISL": {
     "normal": "FAROE ISLANDS",
     "name": "法罗群岛",
@@ -6404,6 +6411,13 @@
     "code3": "USA",
     "num": "840"
   },
+  "IVCOAST": {
+    "normal": "CÔTE D'IVOIRE",
+    "name": "科特迪瓦",
+    "code": "CI",
+    "code3": "CIV",
+    "num": "384"
+  },
   "IVORY COAST": {
     "normal": "CÔTE D'IVOIRE",
     "name": "科特迪瓦",
@@ -8252,6 +8266,13 @@
     "code3": "MUS",
     "num": "480"
   },
+  "MAURTUS": {
+    "normal": "MAURITIUS",
+    "name": "毛里求斯",
+    "code": "MU",
+    "code3": "MUS",
+    "num": "480"
+  },
   "MAYOTTE": {
     "normal": "MAYOTTE",
     "name": "马约特",
@@ -8603,6 +8624,13 @@
     "num": "504"
   },
   "MOZAMBIQUE": {
+    "normal": "MOZAMBIQUE",
+    "name": "莫桑比克",
+    "code": "MZ",
+    "code3": "MOZ",
+    "num": "508"
+  },
+  "MOZAMBQ": {
     "normal": "MOZAMBIQUE",
     "name": "莫桑比克",
     "code": "MZ",
@@ -9840,6 +9868,13 @@
     "code": "PK",
     "code3": "PAK",
     "num": "586"
+  },
+  "PARAGUA": {
+    "normal": "PARAGUAY",
+    "name": "巴拉圭",
+    "code": "PY",
+    "code3": "PRY",
+    "num": "600"
   },
   "PARAGUAI": {
     "normal": "PARAGUAY",
@@ -11409,6 +11444,13 @@
     "code3": "ZAF",
     "num": "710"
   },
+  "S SUDAN": {
+    "normal": "SUDAN",
+    "name": "苏丹",
+    "code": "SD",
+    "code3": "SDN",
+    "num": "729"
+  },
   "S TOME Y PRINCIPE": {
     "normal": "SAO TOME AND PRINCIPE",
     "name": "圣多美和普林西比",
@@ -12592,6 +12634,13 @@
     "code3": "SOM",
     "num": "706"
   },
+  "SOLOMON": {
+    "normal": "SOLOMON ISLANDS",
+    "name": "所罗门群岛",
+    "code": "SB",
+    "code3": "SLB",
+    "num": "090"
+  },
   "SOLOMON IS": {
     "normal": "SOLOMON ISLANDS",
     "name": "所罗门群岛",
@@ -13664,6 +13713,13 @@
     "num": "834"
   },
   "TANZANIA UNITED REPUBLIC OF": {
+    "normal": "TANZANIA",
+    "name": "坦桑尼亚",
+    "code": "TZ",
+    "code3": "TZA",
+    "num": "834"
+  },
+  "TANZNIA": {
     "normal": "TANZANIA",
     "name": "坦桑尼亚",
     "code": "TZ",
