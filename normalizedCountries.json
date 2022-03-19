@@ -1966,6 +1966,13 @@
     "code3": "CYM",
     "num": "136"
   },
+  "CAYMAN ISLAND": {
+    "normal": "CAYMAN ISLANDS",
+    "name": "开曼群岛",
+    "code": "KY",
+    "code3": "CYM",
+    "num": "136"
+  },
   "CAYMAN ISLANDS": {
     "normal": "CAYMAN ISLANDS",
     "name": "开曼群岛",
@@ -3108,6 +3115,13 @@
     "num": "191"
   },
   "CROATIA REP HR": {
+    "normal": "CROATIA",
+    "name": "克罗地亚",
+    "code": "HR",
+    "code3": "HRV",
+    "num": "191"
+  },
+  "CROTIA": {
     "normal": "CROATIA",
     "name": "克罗地亚",
     "code": "HR",
