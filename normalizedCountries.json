@@ -11661,6 +11661,13 @@
     "code3": "SPM",
     "num": "666"
   },
+  "SAINT PIERRE MIQUELON": {
+    "normal": "SAINT PIERRE AND MIQUELON",
+    "name": "圣皮埃尔和密克隆",
+    "code": "PM",
+    "code3": "SPM",
+    "num": "666"
+  },
   "SAINT VINC": {
     "normal": "SAINT VINCENT AND THE GRENADINES",
     "name": "圣文森特和格林纳丁斯",
