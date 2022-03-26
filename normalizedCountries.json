@@ -3296,6 +3296,34 @@
     "code3": "HRV",
     "num": "191"
   },
+  "PACIFIC ISLANDS PALAU": {
+    "normal": "PALAU",
+    "name": "帕劳",
+    "code": "PW",
+    "code3": "PLW",
+    "num": "585"
+  },
+  "REPUBLIC OF SOUTH SUDAN": {
+    "normal": "SOUTH SUDAN",
+    "name": "南苏丹",
+    "code": "SS",
+    "code3": "SSD",
+    "num": "728"
+  },
+  "SAINT VINCENT AND GRENADINES": {
+    "normal": "SAINT VINCENT AND THE GRENADINES",
+    "name": "圣文森特和格林纳丁斯",
+    "code": "VC",
+    "code3": "VCT",
+    "num": "670"
+  },
+  "SOUTH GEORGIA AND THE S SANDWICH ISLANDS": {
+    "normal": "SOUTH GEORGIA AND THE SOUTH SANDWICH ISLANDS",
+    "name": "南乔治亚岛和南桑威奇群岛",
+    "code": "GS",
+    "code3": "SGS",
+    "num": "239"
+  },
   "CROATIA": {
     "normal": "CROATIA",
     "name": "克罗地亚",
