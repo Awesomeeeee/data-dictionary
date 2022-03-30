@@ -3296,35 +3296,14 @@
     "code3": "HRV",
     "num": "191"
   },
-  "PACIFIC ISLANDS PALAU": {
-    "normal": "PALAU",
-    "name": "帕劳",
-    "code": "PW",
-    "code3": "PLW",
-    "num": "585"
-  },
-  "REPUBLIC OF SOUTH SUDAN": {
-    "normal": "SOUTH SUDAN",
-    "name": "南苏丹",
-    "code": "SS",
-    "code3": "SSD",
-    "num": "728"
-  },
-  "SAINT VINCENT AND GRENADINES": {
-    "normal": "SAINT VINCENT AND THE GRENADINES",
-    "name": "圣文森特和格林纳丁斯",
-    "code": "VC",
-    "code3": "VCT",
-    "num": "670"
-  },
-  "SOUTH GEORGIA AND THE S SANDWICH ISLANDS": {
-    "normal": "SOUTH GEORGIA AND THE SOUTH SANDWICH ISLANDS",
-    "name": "南乔治亚岛和南桑威奇群岛",
-    "code": "GS",
-    "code3": "SGS",
-    "num": "239"
-  },
   "CROATIA": {
+    "normal": "CROATIA",
+    "name": "克罗地亚",
+    "code": "HR",
+    "code3": "HRV",
+    "num": "191"
+  },
+  "CROATIA HR": {
     "normal": "CROATIA",
     "name": "克罗地亚",
     "code": "HR",
@@ -3360,13 +3339,6 @@
     "num": "191"
   },
   "CROTIA": {
-    "normal": "CROATIA",
-    "name": "克罗地亚",
-    "code": "HR",
-    "code3": "HRV",
-    "num": "191"
-  },
-  "CROATIA HR": {
     "normal": "CROATIA",
     "name": "克罗地亚",
     "code": "HR",
@@ -9197,14 +9169,14 @@
     "code3": "MOZ",
     "num": "508"
   },
-  "MOZAMBQ": {
+  "MOZAMBIQUE MZ": {
     "normal": "MOZAMBIQUE",
     "name": "莫桑比克",
     "code": "MZ",
     "code3": "MOZ",
     "num": "508"
   },
-  "MOZAMBIQUE MZ": {
+  "MOZAMBQ": {
     "normal": "MOZAMBIQUE",
     "name": "莫桑比克",
     "code": "MZ",
@@ -10127,6 +10099,13 @@
     "code": "PC",
     "code3": "PCI",
     "num": "582"
+  },
+  "PACIFIC ISLANDS PALAU": {
+    "normal": "PALAU",
+    "name": "帕劳",
+    "code": "PW",
+    "code3": "PLW",
+    "num": "585"
   },
   "PACIFIC TRUST TERRITORY": {
     "normal": "PACIFIC ISLANDS, TRUST TERRITORY OF THE",
@@ -11423,6 +11402,13 @@
     "code3": "KOR",
     "num": "410"
   },
+  "REPUBLIC OF SOUTH SUDAN": {
+    "normal": "SOUTH SUDAN",
+    "name": "南苏丹",
+    "code": "SS",
+    "code3": "SSD",
+    "num": "728"
+  },
   "REPUBLIC OF THE CONGO": {
     "normal": "CONGO (BRAZZAVILLE)",
     "name": "刚果（布）",
@@ -12306,6 +12292,13 @@
     "num": "666"
   },
   "SAINT VINC": {
+    "normal": "SAINT VINCENT AND THE GRENADINES",
+    "name": "圣文森特和格林纳丁斯",
+    "code": "VC",
+    "code3": "VCT",
+    "num": "670"
+  },
+  "SAINT VINCENT AND GRENADINES": {
     "normal": "SAINT VINCENT AND THE GRENADINES",
     "name": "圣文森特和格林纳丁斯",
     "code": "VC",
@@ -13502,6 +13495,13 @@
     "code3": "SGS",
     "num": "239"
   },
+  "SOUTH GEORGIA AND THE S SANDWICH ISLANDS": {
+    "normal": "SOUTH GEORGIA AND THE SOUTH SANDWICH ISLANDS",
+    "name": "南乔治亚岛和南桑威奇群岛",
+    "code": "GS",
+    "code3": "SGS",
+    "num": "239"
+  },
   "SOUTH GEORGIA AND THE SOUTH": {
     "normal": "SOUTH GEORGIA AND THE SOUTH SANDWICH ISLANDS",
     "name": "南乔治亚岛和南桑威奇群岛",
@@ -14517,14 +14517,14 @@
     "code3": "TZA",
     "num": "834"
   },
-  "TANZNIA": {
+  "TANZANIA UNITED REPUBLIC OF TZ": {
     "normal": "TANZANIA",
     "name": "坦桑尼亚",
     "code": "TZ",
     "code3": "TZA",
     "num": "834"
   },
-  "TANZANIA UNITED REPUBLIC OF TZ": {
+  "TANZNIA": {
     "normal": "TANZANIA",
     "name": "坦桑尼亚",
     "code": "TZ",
@@ -18948,6 +18948,13 @@
     "code3": "NPL",
     "num": "524"
   },
+  "НИГЕР": {
+    "normal": "NIGER",
+    "name": "尼日尔",
+    "code": "NE",
+    "code3": "NER",
+    "num": "562"
+  },
   "НИГЕРИЯ": {
     "normal": "NIGERIA",
     "name": "尼日利亚",
@@ -19508,6 +19515,13 @@
     "code3": "SWZ",
     "num": "748"
   },
+  "СВАЗИЛЕНД": {
+    "normal": "ESWATINI",
+    "name": "斯威士兰",
+    "code": "SZ",
+    "code3": "SWZ",
+    "num": "748"
+  },
   "СВЯТАЯ ЕЛЕНА": {
     "normal": "SAINT HELENA, ASCENSION AND TRISTAN DA CUNHA",
     "name": "圣赫勒拿、阿森松和特里斯坦-达库尼亚",
@@ -19605,6 +19619,13 @@
     "code": "KN",
     "code3": "KNA",
     "num": "659"
+  },
+  "СЕНТ ЛЮСИЯ": {
+    "normal": "SAINT LUCIA",
+    "name": "圣卢西亚",
+    "code": "LC",
+    "code3": "LCA",
+    "num": "662"
   },
   "СЕРБIЯ": {
     "normal": "SERBIA",
@@ -19747,6 +19768,13 @@
     "num": "740"
   },
   "СУРІНАМ": {
+    "normal": "SURINAME",
+    "name": "苏里南",
+    "code": "SR",
+    "code3": "SUR",
+    "num": "740"
+  },
+  "СУРИНАМ": {
     "normal": "SURINAME",
     "name": "苏里南",
     "code": "SR",
