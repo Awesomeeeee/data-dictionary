@@ -20138,6 +20138,13 @@
     "code3": "FRA",
     "num": "250"
   },
+  "ФРАНЦУЗСКАЯ ГВИАНА": {
+    "normal": "FRENCH GUIANA",
+    "name": "法属圭亚那",
+    "code": "GF",
+    "code3": "GUF",
+    "num": "254"
+  },
   "ФРАНЦУЗСКАЯ ПОЛИНЕЗИЯ": {
     "normal": "FRENCH POLYNESIA",
     "name": "法属波利尼西亚",
@@ -20368,6 +20375,13 @@
     "code": "SV",
     "code3": "SLV",
     "num": "222"
+  },
+  "ЭРИТРЕЯ": {
+    "normal": "ERITREA",
+    "name": "厄立特里亚",
+    "code": "ER",
+    "code3": "ERI",
+    "num": "232"
   },
   "ЭСТОНИЯ": {
     "normal": "ESTONIA",
