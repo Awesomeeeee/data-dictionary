@@ -6209,7 +6209,7 @@
     "num": "092"
   },
   "ISL VIRGENES US": {
-    "normal": "UNITED STATES VIRGIN ISLANDS",
+    "normal": "VIRGIN ISLANDS (U.S.)",
     "name": "美属维尔京群岛",
     "code": "VI",
     "code3": "VIR",
@@ -6629,28 +6629,28 @@
     "num": "092"
   },
   "ISLAS VIRGENES DE ES": {
-    "normal": "UNITED STATES VIRGIN ISLANDS",
+    "normal": "VIRGIN ISLANDS (U.S.)",
     "name": "美属维尔京群岛",
     "code": "VI",
     "code3": "VIR",
     "num": "850"
   },
   "ISLAS VIRGENES DE ESTADOS UNIDOS": {
-    "normal": "UNITED STATES VIRGIN ISLANDS",
+    "normal": "VIRGIN ISLANDS (U.S.)",
     "name": "美属维尔京群岛",
     "code": "VI",
     "code3": "VIR",
     "num": "850"
   },
   "ISLAS VIRGENES DE LOS ESTADOS UNIDOS": {
-    "normal": "UNITED STATES VIRGIN ISLANDS",
+    "normal": "VIRGIN ISLANDS (U.S.)",
     "name": "美属维尔京群岛",
     "code": "VI",
     "code3": "VIR",
     "num": "850"
   },
   "ISLAS VIRGENES EE U": {
-    "normal": "UNITED STATES VIRGIN ISLANDS",
+    "normal": "VIRGIN ISLANDS (U.S.)",
     "name": "美属维尔京群岛",
     "code": "VI",
     "code3": "VIR",
@@ -6664,7 +6664,7 @@
     "num": "092"
   },
   "ISLAS VIRGENES ESTADOS UNIDOS": {
-    "normal": "UNITED STATES VIRGIN ISLANDS",
+    "normal": "VIRGIN ISLANDS (U.S.)",
     "name": "美属维尔京群岛",
     "code": "VI",
     "code3": "VIR",
@@ -6678,7 +6678,7 @@
     "num": "092"
   },
   "ISLAS VIRGENES NORTEAMERICANAS": {
-    "normal": "UNITED STATES VIRGIN ISLANDS",
+    "normal": "VIRGIN ISLANDS (U.S.)",
     "name": "美属维尔京群岛",
     "code": "VI",
     "code3": "VIR",
@@ -6692,7 +6692,7 @@
     "num": "092"
   },
   "ISLAS VIRGENES USA": {
-    "normal": "UNITED STATES VIRGIN ISLANDS",
+    "normal": "VIRGIN ISLANDS (U.S.)",
     "name": "美属维尔京群岛",
     "code": "VI",
     "code3": "VIR",
@@ -8246,46 +8246,46 @@
     "num": "807"
   },
   "MACEDONIA ANT REP IUGOSLAVA": {
-    "normal": "YUGOSLAVIA",
-    "name": "南斯拉夫",
-    "code": "YU",
-    "code3": "YUG",
-    "num": "891"
+    "normal": "NORTH MACEDONIA",
+    "name": "北马其顿",
+    "code": "MK",
+    "code3": "MKD",
+    "num": "807"
   },
   "MACEDONIA ANTIGUA REP BLICA YUGOSLAVA": {
-    "normal": "YUGOSLAVIA",
-    "name": "南斯拉夫",
-    "code": "YU",
-    "code3": "YUG",
-    "num": "891"
+    "normal": "NORTH MACEDONIA",
+    "name": "北马其顿",
+    "code": "MK",
+    "code3": "MKD",
+    "num": "807"
   },
   "MACEDONIA ANTIGUA REPAºBLICA YUGOSLAVA": {
-    "normal": "YUGOSLAVIA",
-    "name": "南斯拉夫",
-    "code": "YU",
-    "code3": "YUG",
-    "num": "891"
+    "normal": "NORTH MACEDONIA",
+    "name": "北马其顿",
+    "code": "MK",
+    "code3": "MKD",
+    "num": "807"
   },
   "MACEDONIA ANTIGUA REPUBLIC": {
-    "normal": "YUGOSLAVIA",
-    "name": "南斯拉夫",
-    "code": "YU",
-    "code3": "YUG",
-    "num": "891"
+    "normal": "NORTH MACEDONIA",
+    "name": "北马其顿",
+    "code": "MK",
+    "code3": "MKD",
+    "num": "807"
   },
   "MACEDONIA ANTIGUA REPUBLICA YUGOSLAVA": {
-    "normal": "YUGOSLAVIA",
-    "name": "南斯拉夫",
-    "code": "YU",
-    "code3": "YUG",
-    "num": "891"
+    "normal": "NORTH MACEDONIA",
+    "name": "北马其顿",
+    "code": "MK",
+    "code3": "MKD",
+    "num": "807"
   },
   "MACEDONIA ANTIGUA REPUBLICA YUGOSLAVA DE": {
-    "normal": "YUGOSLAVIA",
-    "name": "南斯拉夫",
-    "code": "YU",
-    "code3": "YUG",
-    "num": "891"
+    "normal": "NORTH MACEDONIA",
+    "name": "北马其顿",
+    "code": "MK",
+    "code3": "MKD",
+    "num": "807"
   },
   "MACEDONIA DEL NORTE": {
     "normal": "NORTH MACEDONIA",
@@ -8302,18 +8302,18 @@
     "num": "807"
   },
   "MACEDONIA LA EX REPUBLICA": {
-    "normal": "YUGOSLAVIA",
-    "name": "南斯拉夫",
-    "code": "YU",
-    "code3": "YUG",
-    "num": "891"
+    "normal": "NORTH MACEDONIA",
+    "name": "北马其顿",
+    "code": "MK",
+    "code3": "MKD",
+    "num": "807"
   },
   "MACEDONIA LA EX REPUBLICA YUGOSLAVA": {
-    "normal": "YUGOSLAVIA",
-    "name": "南斯拉夫",
-    "code": "YU",
-    "code3": "YUG",
-    "num": "891"
+    "normal": "NORTH MACEDONIA",
+    "name": "北马其顿",
+    "code": "MK",
+    "code3": "MKD",
+    "num": "807"
   },
   "MACEDONIA MK": {
     "normal": "NORTH MACEDONIA",
@@ -8379,11 +8379,11 @@
     "num": "807"
   },
   "MACEDONIA THE FORMER YUGOSLAV REPUBLIC OF": {
-    "normal": "YUGOSLAVIA",
-    "name": "南斯拉夫",
-    "code": "YU",
-    "code3": "YUG",
-    "num": "891"
+    "normal": "NORTH MACEDONIA",
+    "name": "北马其顿",
+    "code": "MK",
+    "code3": "MKD",
+    "num": "807"
   },
   "MACEDONIA THE FORMER YUGUSLAW REPU": {
     "normal": "NORTH MACEDONIA",
@@ -8428,18 +8428,18 @@
     "num": "450"
   },
   "MAKEDONIA FOREIGN YUGOSLAV REPUBLIC": {
-    "normal": "YUGOSLAVIA",
-    "name": "南斯拉夫",
-    "code": "YU",
-    "code3": "YUG",
-    "num": "891"
+    "normal": "NORTH MACEDONIA",
+    "name": "北马其顿",
+    "code": "MK",
+    "code3": "MKD",
+    "num": "807"
   },
   "MAKEDONIA THE EXTERNAL YUGOSLAV REPUBLIC": {
-    "normal": "YUGOSLAVIA",
-    "name": "南斯拉夫",
-    "code": "YU",
-    "code3": "YUG",
-    "num": "891"
+    "normal": "NORTH MACEDONIA",
+    "name": "北马其顿",
+    "code": "MK",
+    "code3": "MKD",
+    "num": "807"
   },
   "MALAGASY REP": {
     "normal": "MADAGASCAR",
@@ -8918,15 +8918,15 @@
     "num": "583"
   },
   "MIDWAY ISLAND": {
-    "normal": "US MISC PAC ISLANDS",
-    "name": "美属太平洋各群岛(中途岛、\n约翰斯顿岛、豪兰岛、贝克岛和威克岛等)",
+    "normal": "UNITED STATES MINOR OUTLYING ISLANDS",
+    "name": "美国本土外小岛屿",
     "code": "UM",
     "code3": "UMI",
     "num": "581"
   },
   "MIDWAY ISLANDS": {
-    "normal": "US MISC PAC ISLANDS",
-    "name": "美属太平洋各群岛(中途岛、\n约翰斯顿岛、豪兰岛、贝克岛和威克岛等)",
+    "normal": "UNITED STATES MINOR OUTLYING ISLANDS",
+    "name": "美国本土外小岛屿",
     "code": "UM",
     "code3": "UMI",
     "num": "581"
@@ -14770,11 +14770,11 @@
     "num": "807"
   },
   "THE FORMER YUGOSLAV REPUBLIC OF MACEDONIA": {
-    "normal": "YUGOSLAVIA",
-    "name": "南斯拉夫",
-    "code": "YU",
-    "code3": "YUG",
-    "num": "891"
+    "normal": "NORTH MACEDONIA",
+    "name": "北马其顿",
+    "code": "MK",
+    "code3": "MKD",
+    "num": "807"
   },
   "THE IVORY COAST": {
     "normal": "CÔTE D'IVOIRE",
@@ -15428,8 +15428,8 @@
     "num": "581"
   },
   "U S MISC PAV ISLANDS": {
-    "normal": "US MISC PAC ISLANDS",
-    "name": "美属太平洋各群岛(中途岛、\n约翰斯顿岛、豪兰岛、贝克岛和威克岛等)",
+    "normal": "UNITED STATES MINOR OUTLYING ISLANDS",
+    "name": "美国本土外小岛屿",
     "code": "UM",
     "code3": "UMI",
     "num": "581"
@@ -15764,21 +15764,21 @@
     "num": "840"
   },
   "UNITED STATES VIRGIN ISLA": {
-    "normal": "UNITED STATES VIRGIN ISLANDS",
+    "normal": "VIRGIN ISLANDS (U.S.)",
     "name": "美属维尔京群岛",
     "code": "VI",
     "code3": "VIR",
     "num": "850"
   },
   "UNITED STATES VIRGIN ISLANDS": {
-    "normal": "UNITED STATES VIRGIN ISLANDS",
+    "normal": "VIRGIN ISLANDS (U.S.)",
     "name": "美属维尔京群岛",
     "code": "VI",
     "code3": "VIR",
     "num": "850"
   },
   "UNITED STATES VIRGIN ISLANDS VI": {
-    "normal": "UNITED STATES VIRGIN ISLANDS",
+    "normal": "VIRGIN ISLANDS (U.S.)",
     "name": "美属维尔京群岛",
     "code": "VI",
     "code3": "VIR",
@@ -16212,14 +16212,14 @@
     "num": "092"
   },
   "VIRGENES DE LOS ESTADOS U": {
-    "normal": "UNITED STATES VIRGIN ISLANDS",
+    "normal": "VIRGIN ISLANDS (U.S.)",
     "name": "美属维尔京群岛",
     "code": "VI",
     "code3": "VIR",
     "num": "850"
   },
   "VIRGENES DE LOS ESTADOS UNIDOS ISL": {
-    "normal": "UNITED STATES VIRGIN ISLANDS",
+    "normal": "VIRGIN ISLANDS (U.S.)",
     "name": "美属维尔京群岛",
     "code": "VI",
     "code3": "VIR",
@@ -16254,21 +16254,21 @@
     "num": "092"
   },
   "VIRGENES ISLAS ESTADOS": {
-    "normal": "UNITED STATES VIRGIN ISLANDS",
+    "normal": "VIRGIN ISLANDS (U.S.)",
     "name": "美属维尔京群岛",
     "code": "VI",
     "code3": "VIR",
     "num": "850"
   },
   "VIRGENES ISLAS ESTADOS UNIDO": {
-    "normal": "UNITED STATES VIRGIN ISLANDS",
+    "normal": "VIRGIN ISLANDS (U.S.)",
     "name": "美属维尔京群岛",
     "code": "VI",
     "code3": "VIR",
     "num": "850"
   },
   "VIRGENES ISLAS ESTADOS UNIDOS": {
-    "normal": "UNITED STATES VIRGIN ISLANDS",
+    "normal": "VIRGIN ISLANDS (U.S.)",
     "name": "美属维尔京群岛",
     "code": "VI",
     "code3": "VIR",
@@ -16282,14 +16282,14 @@
     "num": "092"
   },
   "VIRGENES ISLAS NORTEAMERICAN": {
-    "normal": "UNITED STATES VIRGIN ISLANDS",
+    "normal": "VIRGIN ISLANDS (U.S.)",
     "name": "美属维尔京群岛",
     "code": "VI",
     "code3": "VIR",
     "num": "850"
   },
   "VIRGENES ISLAS NORTEAMERICANAS": {
-    "normal": "UNITED STATES VIRGIN ISLANDS",
+    "normal": "VIRGIN ISLANDS (U.S.)",
     "name": "美属维尔京群岛",
     "code": "VI",
     "code3": "VIR",
@@ -16310,7 +16310,7 @@
     "num": "092"
   },
   "VIRGENS ILHAS EUA": {
-    "normal": "UNITED STATES VIRGIN ISLANDS",
+    "normal": "VIRGIN ISLANDS (U.S.)",
     "name": "美属维尔京群岛",
     "code": "VI",
     "code3": "VIR",
@@ -16366,7 +16366,7 @@
     "num": "092"
   },
   "VIRGIN ISLANDS OF THE UNITED STATES": {
-    "normal": "UNITED STATES VIRGIN ISLANDS",
+    "normal": "VIRGIN ISLANDS (U.S.)",
     "name": "美属维尔京群岛",
     "code": "VI",
     "code3": "VIR",
@@ -16415,15 +16415,15 @@
     "num": "548"
   },
   "WAKE ISLAND": {
-    "normal": "US MISC PAC ISLANDS",
-    "name": "美属太平洋各群岛(中途岛、\n约翰斯顿岛、豪兰岛、贝克岛和威克岛等)",
+    "normal": "UNITED STATES MINOR OUTLYING ISLANDS",
+    "name": "美国本土外小岛屿",
     "code": "UM",
     "code3": "UMI",
     "num": "581"
   },
   "WAKE ISLANDS": {
-    "normal": "US MISC PAC ISLANDS",
-    "name": "美属太平洋各群岛(中途岛、\n约翰斯顿岛、豪兰岛、贝克岛和威克岛等)",
+    "normal": "UNITED STATES MINOR OUTLYING ISLANDS",
+    "name": "美国本土外小岛屿",
     "code": "UM",
     "code3": "UMI",
     "num": "581"
@@ -17423,7 +17423,7 @@
     "num": "092"
   },
   "ВIРГIНСЬКI ОСТРОВИ США": {
-    "normal": "UNITED STATES VIRGIN ISLANDS",
+    "normal": "VIRGIN ISLANDS (U.S.)",
     "name": "美属维尔京群岛",
     "code": "VI",
     "code3": "VIR",
@@ -17437,7 +17437,7 @@
     "num": "051"
   },
   "ВІРГІНСЬКІ ОСТРОВИ США": {
-    "normal": "UNITED STATES VIRGIN ISLANDS",
+    "normal": "VIRGIN ISLANDS (U.S.)",
     "name": "美属维尔京群岛",
     "code": "VI",
     "code3": "VIR",
@@ -17521,7 +17521,7 @@
     "num": "092"
   },
   "ВИРГИНСКИЕ ОСТРОВА США": {
-    "normal": "UNITED STATES VIRGIN ISLANDS",
+    "normal": "VIRGIN ISLANDS (U.S.)",
     "name": "美属维尔京群岛",
     "code": "VI",
     "code3": "VIR",
@@ -18641,18 +18641,18 @@
     "num": "446"
   },
   "МАКЕДОНIЯ КОЛИШНЯ ЮГОСЛАВСЬКА РЕСПУБЛIКА": {
-    "normal": "YUGOSLAVIA",
-    "name": "南斯拉夫",
-    "code": "YU",
-    "code3": "YUG",
-    "num": "891"
+    "normal": "NORTH MACEDONIA",
+    "name": "北马其顿",
+    "code": "MK",
+    "code3": "MKD",
+    "num": "807"
   },
   "МАКЕДОНІЯ КОЛИШНЯ ЮГОСЛАВСЬКА РЕСПУБЛІКА": {
-    "normal": "YUGOSLAVIA",
-    "name": "南斯拉夫",
-    "code": "YU",
-    "code3": "YUG",
-    "num": "891"
+    "normal": "NORTH MACEDONIA",
+    "name": "北马其顿",
+    "code": "MK",
+    "code3": "MKD",
+    "num": "807"
   },
   "МАКЕДОНИЯ": {
     "normal": "NORTH MACEDONIA",
@@ -19313,11 +19313,11 @@
     "num": "630"
   },
   "РЕСПУБЛIКА МАКЕДОНIЯ КОЛИШНЯ ЮГОСЛАВСЬКА": {
-    "normal": "YUGOSLAVIA",
-    "name": "南斯拉夫",
-    "code": "YU",
-    "code3": "YUG",
-    "num": "891"
+    "normal": "NORTH MACEDONIA",
+    "name": "北马其顿",
+    "code": "MK",
+    "code3": "MKD",
+    "num": "807"
   },
   "РЕСПУБЛІКА СУДАН": {
     "normal": "SUDAN",
