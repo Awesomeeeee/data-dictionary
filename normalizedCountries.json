@@ -15357,6 +15357,13 @@
     "code3": "TUV",
     "num": "798"
   },
+  "TUVALU COMUNIDAD BRITANICA DE NACIONES": {
+    "normal": "TUVALU",
+    "name": "图瓦卢",
+    "code": "TV",
+    "code3": "TUV",
+    "num": "798"
+  },
   "TVA AUSTRALIA OCEANIA": {
     "normal": "AUSTRALIA",
     "name": "澳大利亚",
@@ -16791,6 +16798,13 @@
     "code": "UY",
     "code3": "URY",
     "num": "858"
+  },
+  "ZONA NEUTRA IRAQ ARABIA SAUDITA": {
+    "normal": "NEUTRAL ZONE",
+    "name": "沙伊两国中立区",
+    "code": "NT",
+    "code3": "NTZ",
+    "num": "536"
   },
   "ZONA NEUTRAL PALESTINA": {
     "normal": "PALESTINE",
