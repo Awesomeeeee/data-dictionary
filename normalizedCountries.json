@@ -2694,6 +2694,13 @@
     "code3": "COM",
     "num": "174"
   },
+  "COMOROS ISLAS": {
+    "normal": "COMOROS",
+    "name": "科摩罗",
+    "code": "KM",
+    "code3": "COM",
+    "num": "174"
+  },
   "COMOROS REP OF": {
     "normal": "COMOROS",
     "name": "科摩罗",
@@ -10457,6 +10464,13 @@
     "code3": "PAN",
     "num": "591"
   },
+  "PANAMA CHANNEL": {
+    "normal": "PANAMA",
+    "name": "巴拿马",
+    "code": "PA",
+    "code3": "PAN",
+    "num": "591"
+  },
   "PANAMA CITY": {
     "normal": "PANAMA",
     "name": "巴拿马",
@@ -12278,6 +12292,13 @@
     "num": "732"
   },
   "SAHARA OCCIDENTAL": {
+    "normal": "WESTERN SAHARA",
+    "name": "西撒哈拉",
+    "code": "EH",
+    "code3": "ESH",
+    "num": "732"
+  },
+  "SAHARA OCCIDENTAL REPUBLICA ARABE SAHARABI": {
     "normal": "WESTERN SAHARA",
     "name": "西撒哈拉",
     "code": "EH",
