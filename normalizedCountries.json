@@ -15063,6 +15063,13 @@
     "code3": "TLS",
     "num": "626"
   },
+  "TIVALU": {
+    "normal": "TUVALU",
+    "name": "图瓦卢",
+    "code": "TV",
+    "code3": "TUV",
+    "num": "798"
+  },
   "TJ TAJIKISTAN": {
     "normal": "TAJIKISTAN",
     "name": "塔吉克斯坦",
