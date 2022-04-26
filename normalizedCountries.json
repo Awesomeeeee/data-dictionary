@@ -8336,6 +8336,13 @@
     "code3": "MAC",
     "num": "446"
   },
+  "CHINA MACAO": {
+    "normal": "CHINA MACAO",
+    "name": "中国澳门",
+    "code": "MO",
+    "code3": "MAC",
+    "num": "446"
+  },
   "MACEDONIA": {
     "normal": "NORTH MACEDONIA",
     "name": "北马其顿",
