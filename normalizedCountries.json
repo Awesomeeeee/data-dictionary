@@ -15798,6 +15798,13 @@
     "code3": "SUN",
     "num": "810"
   },
+  "SOVIET UNION": {
+    "normal": "SOVIET UNION",
+    "name": "苏联",
+    "code": "SU",
+    "code3": "SUN",
+    "num": "810"
+  },
   "UNITED ARA": {
     "normal": "UNITED ARAB EMIRATES",
     "name": "阿联酋",
