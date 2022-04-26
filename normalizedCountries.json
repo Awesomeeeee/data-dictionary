@@ -1315,6 +1315,13 @@
     "code3": "BIH",
     "num": "070"
   },
+  "BOSNIA AND HERCEGOVINA": {
+    "normal": "BOSNIA AND HERZEGOVINA",
+    "name": "波黑",
+    "code": "BA",
+    "code3": "BIH",
+    "num": "070"
+  },
   "BOSNIA AND HERZEGOVI": {
     "normal": "BOSNIA AND HERZEGOVINA",
     "name": "波黑",
@@ -1582,6 +1589,13 @@
     "num": "096"
   },
   "BRUNEI DARUSSALAN": {
+    "normal": "BRUNEI",
+    "name": "文莱",
+    "code": "BN",
+    "code3": "BRN",
+    "num": "096"
+  },
+  "BRUNEL": {
     "normal": "BRUNEI",
     "name": "文莱",
     "code": "BN",
@@ -8379,6 +8393,13 @@
     "num": "807"
   },
   "MACEDONIA F Y R": {
+    "normal": "NORTH MACEDONIA",
+    "name": "北马其顿",
+    "code": "MK",
+    "code3": "MKD",
+    "num": "807"
+  },
+  "MACEDONIA FYR": {
     "normal": "NORTH MACEDONIA",
     "name": "北马其顿",
     "code": "MK",
@@ -15771,13 +15792,6 @@
     "num": "810"
   },
   "UNION SOVIETICA": {
-    "normal": "SOVIET UNION",
-    "name": "苏联",
-    "code": "SU",
-    "code3": "SUN",
-    "num": "810"
-  },
-  "SOVIET UNION": {
     "normal": "SOVIET UNION",
     "name": "苏联",
     "code": "SU",
