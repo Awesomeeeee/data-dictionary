@@ -1511,6 +1511,13 @@
     "code3": "IOT",
     "num": "086"
   },
+  "BRITISH INDIAN OCEAN TERR": {
+    "normal": "BRITISH INDIAN OCEAN TERRITORY",
+    "name": "英属印度洋领地",
+    "code": "IO",
+    "code3": "IOT",
+    "num": "086"
+  },
   "BRITISH INDIAN OCEAN TERRIT": {
     "normal": "BRITISH INDIAN OCEAN TERRITORY",
     "name": "英属印度洋领地",
@@ -2350,6 +2357,13 @@
     "code": "HK",
     "code3": "HKG",
     "num": "344"
+  },
+  "CHINA MACAO": {
+    "normal": "CHINA MACAO",
+    "name": "中国澳门",
+    "code": "MO",
+    "code3": "MAC",
+    "num": "446"
   },
   "CHINA MACAO SPECIAL ADMINISTRATIVE REGION": {
     "normal": "CHINA MACAO",
@@ -8336,13 +8350,6 @@
     "code3": "MAC",
     "num": "446"
   },
-  "CHINA MACAO": {
-    "normal": "CHINA MACAO",
-    "name": "中国澳门",
-    "code": "MO",
-    "code3": "MAC",
-    "num": "446"
-  },
   "MACEDONIA": {
     "normal": "NORTH MACEDONIA",
     "name": "北马其顿",
@@ -9002,6 +9009,13 @@
     "num": "583"
   },
   "MICRONESIA FEDERATE": {
+    "normal": "MICRONESIA",
+    "name": "密克罗尼西亚联邦",
+    "code": "FM",
+    "code3": "FSM",
+    "num": "583"
+  },
+  "MICRONESIA FEDERATED STA": {
     "normal": "MICRONESIA",
     "name": "密克罗尼西亚联邦",
     "code": "FM",
@@ -11388,6 +11402,13 @@
     "code3": "COG",
     "num": "178"
   },
+  "REP BLICA RUANDESA": {
+    "normal": "RWANDA",
+    "name": "卢旺达",
+    "code": "RW",
+    "code3": "RWA",
+    "num": "646"
+  },
   "REP CENT AFRIC": {
     "normal": "CENTRAL AFRICAN REPUBLIC",
     "name": "中非",
@@ -11506,6 +11527,13 @@
     "code": "CF",
     "code3": "CAF",
     "num": "140"
+  },
+  "REPBLICA POPULAR DEL CONG": {
+    "normal": "CONGO (BRAZZAVILLE)",
+    "name": "刚果（布）",
+    "code": "CG",
+    "code3": "COG",
+    "num": "178"
   },
   "REPBLICA POPULAR DEL CONGO": {
     "normal": "CONGO (BRAZZAVILLE)",
@@ -12495,6 +12523,13 @@
     "num": "670"
   },
   "SAINT VINCENT AND GRENADINES": {
+    "normal": "SAINT VINCENT AND THE GRENADINES",
+    "name": "圣文森特和格林纳丁斯",
+    "code": "VC",
+    "code3": "VCT",
+    "num": "670"
+  },
+  "SAINT VINCENT AND THE GRE": {
     "normal": "SAINT VINCENT AND THE GRENADINES",
     "name": "圣文森特和格林纳丁斯",
     "code": "VC",
@@ -13788,6 +13823,13 @@
     "code": "KR",
     "code3": "KOR",
     "num": "410"
+  },
+  "SOVIET UNION": {
+    "normal": "SOVIET UNION",
+    "name": "苏联",
+    "code": "SU",
+    "code3": "SUN",
+    "num": "810"
   },
   "SPAIN": {
     "normal": "SPAIN",
@@ -15805,13 +15847,6 @@
     "code3": "SUN",
     "num": "810"
   },
-  "SOVIET UNION": {
-    "normal": "SOVIET UNION",
-    "name": "苏联",
-    "code": "SU",
-    "code3": "SUN",
-    "num": "810"
-  },
   "UNITED ARA": {
     "normal": "UNITED ARAB EMIRATES",
     "name": "阿联酋",
@@ -16121,6 +16156,20 @@
     "num": "860"
   },
   "UZBEKIST N": {
+    "normal": "UZBEKISTAN",
+    "name": "乌兹别克斯坦",
+    "code": "UZ",
+    "code3": "UZB",
+    "num": "860"
+  },
+  "UZBEKIST N REP BLICA D": {
+    "normal": "UZBEKISTAN",
+    "name": "乌兹别克斯坦",
+    "code": "UZ",
+    "code3": "UZB",
+    "num": "860"
+  },
+  "UZBEKIST N REP BLICA DE": {
     "normal": "UZBEKISTAN",
     "name": "乌兹别克斯坦",
     "code": "UZ",
@@ -17022,6 +17071,13 @@
     "code": "UY",
     "code3": "URY",
     "num": "858"
+  },
+  "ZONA NEUTRA IRAQ ARABIA S": {
+    "normal": "NEUTRAL ZONE",
+    "name": "沙伊两国中立区",
+    "code": "NT",
+    "code3": "NTZ",
+    "num": "536"
   },
   "ZONA NEUTRA IRAQ ARABIA SAUDITA": {
     "normal": "NEUTRAL ZONE",
