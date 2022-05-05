@@ -146,6 +146,13 @@
     "code3": "ALB",
     "num": "008"
   },
+  "ALBANY": {
+    "normal": "ALBANIA",
+    "name": "阿尔巴尼亚",
+    "code": "AL",
+    "code3": "ALB",
+    "num": "008"
+  },
   "ALEMANHA": {
     "normal": "GERMANY",
     "name": "德国",
@@ -637,6 +644,13 @@
     "num": "031"
   },
   "AZERBAIDJAN": {
+    "normal": "AZERBAIJAN",
+    "name": "阿塞拜疆",
+    "code": "AZ",
+    "code3": "AZE",
+    "num": "031"
+  },
+  "AZERBAIDZHAN": {
     "normal": "AZERBAIJAN",
     "name": "阿塞拜疆",
     "code": "AZ",
@@ -2673,6 +2687,13 @@
     "code3": "COM",
     "num": "174"
   },
+  "COMORAS ISLANDS": {
+    "normal": "COMOROS",
+    "name": "科摩罗",
+    "code": "KM",
+    "code3": "COM",
+    "num": "174"
+  },
   "COMORAS ISLAS": {
     "normal": "COMOROS",
     "name": "科摩罗",
@@ -4479,6 +4500,13 @@
     "code3": "ETH",
     "num": "231"
   },
+  "ETHIOPY": {
+    "normal": "ETHIOPIA",
+    "name": "埃塞俄比亚",
+    "code": "ET",
+    "code3": "ETH",
+    "num": "231"
+  },
   "ETIOP A": {
     "normal": "ETHIOPIA",
     "name": "埃塞俄比亚",
@@ -4746,6 +4774,13 @@
     "num": "246"
   },
   "FIDJI": {
+    "normal": "FIJI",
+    "name": "斐济",
+    "code": "FJ",
+    "code3": "FJI",
+    "num": "242"
+  },
+  "FIDJI ISLANDS": {
     "normal": "FIJI",
     "name": "斐济",
     "code": "FJ",
@@ -8245,6 +8280,13 @@
     "code3": "LBN",
     "num": "422"
   },
+  "LYBERIA": {
+    "normal": "LIBERIA",
+    "name": "利比里亚",
+    "code": "LR",
+    "code3": "LBR",
+    "num": "430"
+  },
   "LYBIAN ARAB JAMAHIRIYA": {
     "normal": "LIBYA",
     "name": "利比亚",
@@ -8876,6 +8918,13 @@
     "num": "478"
   },
   "MAURITIUS": {
+    "normal": "MAURITIUS",
+    "name": "毛里求斯",
+    "code": "MU",
+    "code3": "MUS",
+    "num": "480"
+  },
+  "MAURITIUS ISLANDS": {
     "normal": "MAURITIUS",
     "name": "毛里求斯",
     "code": "MU",
@@ -9953,6 +10002,13 @@
     "code3": "NFK",
     "num": "574"
   },
+  "NORTH AMERICAN VIRGIN ISLANDS": {
+    "normal": "VIRGIN ISLANDS (U.S.)",
+    "name": "美属维尔京群岛",
+    "code": "VI",
+    "code3": "VIR",
+    "num": "850"
+  },
   "NORTH KOREA": {
     "normal": "NORTH KOREA",
     "name": "朝鲜",
@@ -9989,6 +10045,13 @@
     "num": "580"
   },
   "NORTH MARIANA ISLANDS": {
+    "normal": "NORTHERN MARIANA ISLANDS",
+    "name": "北马里亚纳群岛",
+    "code": "MP",
+    "code3": "MNP",
+    "num": "580"
+  },
+  "NORTH MARIANAS ISLANDS": {
     "normal": "NORTHERN MARIANA ISLANDS",
     "name": "北马里亚纳群岛",
     "code": "MP",
@@ -10387,6 +10450,13 @@
     "code3": "PLW",
     "num": "585"
   },
+  "PALAU ISLANDS": {
+    "normal": "PALAU",
+    "name": "帕劳",
+    "code": "PW",
+    "code3": "PLW",
+    "num": "585"
+  },
   "PALAU ISLAS": {
     "normal": "PALAU",
     "name": "帕劳",
@@ -10458,6 +10528,13 @@
     "num": "275"
   },
   "PALESTINIAN TERRITOR": {
+    "normal": "PALESTINE",
+    "name": "巴勒斯坦",
+    "code": "PS",
+    "code3": "PSE",
+    "num": "275"
+  },
+  "PALESTINIAN TERRITORIES": {
     "normal": "PALESTINE",
     "name": "巴勒斯坦",
     "code": "PS",
@@ -12459,6 +12536,13 @@
     "code3": "KNA",
     "num": "659"
   },
+  "SAINT KITTS E NEVIS": {
+    "normal": "SAINT KITTS AND NEVIS",
+    "name": "圣基茨和尼维斯",
+    "code": "KN",
+    "code3": "KNA",
+    "num": "659"
+  },
   "SAINT KITTS NEVIS": {
     "normal": "SAINT KITTS AND NEVIS",
     "name": "圣基茨和尼维斯",
@@ -12514,6 +12598,13 @@
     "code": "PM",
     "code3": "SPM",
     "num": "666"
+  },
+  "SAINT TOME AND PRINCIPE": {
+    "normal": "SAO TOME AND PRINCIPE",
+    "name": "圣多美和普林西比",
+    "code": "ST",
+    "code3": "STP",
+    "num": "678"
   },
   "SAINT VINC": {
     "normal": "SAINT VINCENT AND THE GRENADINES",
@@ -13991,6 +14082,13 @@
     "code": "LC",
     "code3": "LCA",
     "num": "662"
+  },
+  "ST MAARTEN NETHERLANDS": {
+    "normal": "SINT MAARTEN (DUTCH PART)",
+    "name": "荷属圣马丁",
+    "code": "SX",
+    "code3": "SXM",
+    "num": "534"
   },
   "ST PIERRE AND MIQUELON": {
     "normal": "SAINT PIERRE AND MIQUELON",
