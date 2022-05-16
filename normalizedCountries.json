@@ -16358,6 +16358,13 @@
     "code3": "VUT",
     "num": "548"
   },
+  "VATICAN": {
+    "normal": "VATICAN CITY (HOLY SEE)",
+    "name": "梵蒂冈",
+    "code": "VA",
+    "code3": "VAT",
+    "num": "336"
+  },
   "VATICAN CI": {
     "normal": "VATICAN CITY (HOLY SEE)",
     "name": "梵蒂冈",
