@@ -1735,6 +1735,13 @@
     "code3": "MMR",
     "num": "104"
   },
+  "BURMA MYANMA": {
+    "normal": "MYANMAR",
+    "name": "缅甸",
+    "code": "MM",
+    "code3": "MMR",
+    "num": "104"
+  },
   "BURUNDI": {
     "normal": "BURUNDI",
     "name": "布隆迪",
@@ -3653,6 +3660,13 @@
     "code3": "COD",
     "num": "180"
   },
+  "DEMOCRATIC REPUB OF CONGO": {
+    "normal": "CONGO (KINSHASA)",
+    "name": "刚果（金）",
+    "code": "CD",
+    "code3": "COD",
+    "num": "180"
+  },
   "DEMOCRATIC REPUBLIC OF CONGO": {
     "normal": "CONGO (KINSHASA)",
     "name": "刚果（金）",
@@ -4926,6 +4940,13 @@
     "code": "MK",
     "code3": "MKD",
     "num": "807"
+  },
+  "FORMER YUGOSLAVIA": {
+    "normal": "YUGOSLAVIA",
+    "name": "南斯拉夫",
+    "code": "YU",
+    "code3": "YUG",
+    "num": "891"
   },
   "FORMOSA TAIWAN": {
     "normal": "CHINA TAIWAN",
@@ -7279,6 +7300,13 @@
     "code3": "KHM",
     "num": "116"
   },
+  "KINGDOM OF SWAZILAND": {
+    "normal": "ESWATINI",
+    "name": "斯威士兰",
+    "code": "SZ",
+    "code3": "SWZ",
+    "num": "748"
+  },
   "KIRGHIZIA": {
     "normal": "KYRGYZSTAN",
     "name": "吉尔吉斯斯坦",
@@ -7378,6 +7406,13 @@
     "num": "408"
   },
   "KOREA DEM PEOPLE S REP OF": {
+    "normal": "NORTH KOREA",
+    "name": "朝鲜",
+    "code": "KP",
+    "code3": "PRK",
+    "num": "408"
+  },
+  "KOREA DEMOCRATIC": {
     "normal": "NORTH KOREA",
     "name": "朝鲜",
     "code": "KP",
@@ -11654,6 +11689,13 @@
     "code3": "KOR",
     "num": "410"
   },
+  "REPUBLIC OF MALAWI": {
+    "normal": "MALAWI",
+    "name": "马拉维",
+    "code": "MW",
+    "code3": "MWI",
+    "num": "454"
+  },
   "REPUBLIC OF MOLDOVA": {
     "normal": "MOLDOVA",
     "name": "摩尔多瓦",
@@ -11716,6 +11758,27 @@
     "code": "SD",
     "code3": "SDN",
     "num": "729"
+  },
+  "REPUBLIC OF UGANDA": {
+    "normal": "UGANDA",
+    "name": "乌干达",
+    "code": "UG",
+    "code3": "UGA",
+    "num": "800"
+  },
+  "REPUBLIC OF ZAMBIA": {
+    "normal": "ZAMBIA",
+    "name": "赞比亚",
+    "code": "ZM",
+    "code3": "ZMB",
+    "num": "894"
+  },
+  "REPUBLIC OF ZIMBABWE": {
+    "normal": "ZIMBABWE",
+    "name": "津巴布韦",
+    "code": "ZW",
+    "code3": "ZWE",
+    "num": "716"
   },
   "REPUBLICA ARABE DE SIRIA": {
     "normal": "SYRIA",
@@ -12320,6 +12383,13 @@
     "num": "646"
   },
   "RWANDAN REPUBLIC": {
+    "normal": "RWANDA",
+    "name": "卢旺达",
+    "code": "RW",
+    "code3": "RWA",
+    "num": "646"
+  },
+  "RWANDESE REPUBLIC": {
     "normal": "RWANDA",
     "name": "卢旺达",
     "code": "RW",
