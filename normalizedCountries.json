@@ -4577,6 +4577,13 @@
     "code3": "ESP",
     "num": "724"
   },
+  "ESPANA REINO DE": {
+    "normal": "SPAIN",
+    "name": "西班牙",
+    "code": "ES",
+    "code3": "ESP",
+    "num": "724"
+  },
   "ESPANHA": {
     "normal": "SPAIN",
     "name": "西班牙",
@@ -5459,6 +5466,13 @@
     "code3": "GMB",
     "num": "270"
   },
+  "GAMBIA REPUBLICA DE LA": {
+    "normal": "GAMBIA",
+    "name": "冈比亚",
+    "code": "GM",
+    "code3": "GMB",
+    "num": "270"
+  },
   "GAMBIA THE": {
     "normal": "GAMBIA",
     "name": "冈比亚",
@@ -5782,6 +5796,13 @@
     "num": "316"
   },
   "GUADALUPE": {
+    "normal": "GUADELOUPE",
+    "name": "瓜德罗普",
+    "code": "GP",
+    "code3": "GLP",
+    "num": "312"
+  },
+  "GUADALUPE DEPARTAMENTO DE": {
     "normal": "GUADELOUPE",
     "name": "瓜德罗普",
     "code": "GP",
@@ -9085,6 +9106,13 @@
     "code3": "MDG",
     "num": "450"
   },
+  "MADAGASCAR REPUBLICA DE": {
+    "normal": "MADAGASCAR",
+    "name": "马达加斯加",
+    "code": "MG",
+    "code3": "MDG",
+    "num": "450"
+  },
   "MAKEDONIA FOREIGN YUGOSLAV REPUBLIC": {
     "normal": "NORTH MACEDONIA",
     "name": "北马其顿",
@@ -9436,6 +9464,13 @@
     "num": "478"
   },
   "MAURITANIA MR": {
+    "normal": "MAURITANIA",
+    "name": "毛里塔尼亚",
+    "code": "MR",
+    "code3": "MRT",
+    "num": "478"
+  },
+  "MAURITANIA REPUBLICA ISLAMICA DE": {
     "normal": "MAURITANIA",
     "name": "毛里塔尼亚",
     "code": "MR",
@@ -11990,6 +12025,13 @@
     "code3": "GBR",
     "num": "826"
   },
+  "REINO UNIDO DE LA GRAN BRETANA E IRLANDA DEL NORTE": {
+    "normal": "UNITED KINGDOM",
+    "name": "英国",
+    "code": "GB",
+    "code3": "GBR",
+    "num": "826"
+  },
   "REINO UNIDO DE LA GRAN BRETA袮 E IRLANDA DEL NORTE": {
     "normal": "UNITED KINGDOM",
     "name": "英国",
@@ -14048,6 +14090,13 @@
     "code3": "SYC",
     "num": "690"
   },
+  "SEYCHELLES REPUBLICA DE LAS": {
+    "normal": "SEYCHELLES",
+    "name": "塞舌尔",
+    "code": "SC",
+    "code3": "SYC",
+    "num": "690"
+  },
   "SEYCHELLES SC": {
     "normal": "SEYCHELLES",
     "name": "塞舌尔",
@@ -14091,6 +14140,13 @@
     "num": "694"
   },
   "SIERRA LEONA": {
+    "normal": "SIERRA LEONE",
+    "name": "塞拉利昂",
+    "code": "SL",
+    "code3": "SLE",
+    "num": "694"
+  },
+  "SIERRA LEONA REPUBLICA DE": {
     "normal": "SIERRA LEONE",
     "name": "塞拉利昂",
     "code": "SL",
@@ -16037,6 +16093,13 @@
     "num": "776"
   },
   "TOGO": {
+    "normal": "TOGO",
+    "name": "多哥",
+    "code": "TG",
+    "code3": "TGO",
+    "num": "768"
+  },
+  "TOGO REPUBLICA TOGOLESA": {
     "normal": "TOGO",
     "name": "多哥",
     "code": "TG",
