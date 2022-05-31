@@ -1154,6 +1154,13 @@
     "code3": "BLZ",
     "num": "084"
   },
+  "BELORUS": {
+    "normal": "BELARUS",
+    "name": "白俄罗斯",
+    "code": "BY",
+    "code3": "BLR",
+    "num": "112"
+  },
   "BENIN": {
     "normal": "BENIN",
     "name": "贝宁",
@@ -1322,6 +1329,13 @@
     "code3": "MMR",
     "num": "104"
   },
+  "BIRMANIA MYANMAR": {
+    "normal": "MYANMAR",
+    "name": "缅甸",
+    "code": "MM",
+    "code3": "MMR",
+    "num": "104"
+  },
   "BJ BENIN": {
     "normal": "BENIN",
     "name": "贝宁",
@@ -1398,6 +1412,13 @@
     "code": "BO",
     "code3": "BOL",
     "num": "068"
+  },
+  "BONAIRE SAN EUS": {
+    "normal": "BONAIRE, SINT EUSTATIUS AND SABA",
+    "name": "荷兰加勒比区",
+    "code": "BQ",
+    "code3": "BES",
+    "num": "535"
   },
   "BONAIRE SAN EUSTAQUIO Y S": {
     "normal": "BONAIRE, SINT EUSTATIUS AND SABA",
@@ -1868,6 +1889,13 @@
     "code3": "BFA",
     "num": "854"
   },
+  "BURKINA FASSO": {
+    "normal": "BURKINA FASO",
+    "name": "布基纳法索",
+    "code": "BF",
+    "code3": "BFA",
+    "num": "854"
+  },
   "BURKINAFASO": {
     "normal": "BURKINA FASO",
     "name": "布基纳法索",
@@ -2219,6 +2247,13 @@
     "num": "120"
   },
   "CAMERUN REPUBLICA DEL": {
+    "normal": "CAMEROON",
+    "name": "喀麦隆",
+    "code": "CM",
+    "code3": "CMR",
+    "num": "120"
+  },
+  "CAMERUN REPUBLICA UNIDA DEL": {
     "normal": "CAMEROON",
     "name": "喀麦隆",
     "code": "CM",
@@ -3247,7 +3282,21 @@
     "code3": "PRK",
     "num": "408"
   },
+  "COREA DEL NORTE REPUBLICA POPULAR DEMOC": {
+    "normal": "NORTH KOREA",
+    "name": "朝鲜",
+    "code": "KP",
+    "code3": "PRK",
+    "num": "408"
+  },
   "COREA DEL SUR": {
+    "normal": "SOUTH KOREA",
+    "name": "韩国",
+    "code": "KR",
+    "code3": "KOR",
+    "num": "410"
+  },
+  "COREA DEL SUR REPUBLICA DE": {
     "normal": "SOUTH KOREA",
     "name": "韩国",
     "code": "KR",
@@ -3304,6 +3353,13 @@
     "num": "408"
   },
   "COREA NORTE REPPOPDEM DE": {
+    "normal": "NORTH KOREA",
+    "name": "朝鲜",
+    "code": "KP",
+    "code3": "PRK",
+    "num": "408"
+  },
+  "COREA NORTE REPUBLICA POPULAR DEMOCRATICA DE": {
     "normal": "NORTH KOREA",
     "name": "朝鲜",
     "code": "KP",
@@ -7706,6 +7762,13 @@
     "code3": "KHM",
     "num": "116"
   },
+  "KAMPUCHEA CAMBOYA": {
+    "normal": "CAMBODIA",
+    "name": "柬埔寨",
+    "code": "KH",
+    "code3": "KHM",
+    "num": "116"
+  },
   "KAMPUCHEA DEMOCRATIC": {
     "normal": "CAMBODIA",
     "name": "柬埔寨",
@@ -8624,6 +8687,13 @@
     "num": "430"
   },
   "LIBIA": {
+    "normal": "LIBYA",
+    "name": "利比亚",
+    "code": "LY",
+    "code3": "LBY",
+    "num": "434"
+  },
+  "LIBIA INCLUYE FEZZAN": {
     "normal": "LIBYA",
     "name": "利比亚",
     "code": "LY",
@@ -12808,6 +12878,13 @@
     "code": "KP",
     "code3": "PRK",
     "num": "408"
+  },
+  "REPUBLICA DEMOCRATICA POPULAR LAO": {
+    "normal": "LAOS",
+    "name": "老挝",
+    "code": "LA",
+    "code3": "LAO",
+    "num": "418"
   },
   "REPUBLICA DEMOCRATICA POPULAR LAOS": {
     "normal": "LAOS",
