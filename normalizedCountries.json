@@ -9400,6 +9400,13 @@
     "code3": "MDV",
     "num": "462"
   },
+  "MALDIVE": {
+    "normal": "MALDIVES",
+    "name": "马尔代夫",
+    "code": "MV",
+    "code3": "MDV",
+    "num": "462"
+  },
   "MALDIVE ISLANDS": {
     "normal": "MALDIVES",
     "name": "马尔代夫",
