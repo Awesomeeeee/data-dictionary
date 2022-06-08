@@ -17625,6 +17625,13 @@
     "code3": "VEN",
     "num": "862"
   },
+  "VENEZUELA BOLIVARIAN": {
+    "normal": "VENEZUELA",
+    "name": "委内瑞拉",
+    "code": "VE",
+    "code3": "VEN",
+    "num": "862"
+  },
   "VENEZUELA BOLIVARIAN REPUB": {
     "normal": "VENEZUELA",
     "name": "委内瑞拉",
