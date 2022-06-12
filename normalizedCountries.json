@@ -9323,6 +9323,13 @@
     "code3": "MYS",
     "num": "458"
   },
+  "MALASYA": {
+    "normal": "MALAYSIA",
+    "name": "马来西亚",
+    "code": "MY",
+    "code3": "MYS",
+    "num": "458"
+  },
   "MALAUI": {
     "normal": "MALAWI",
     "name": "马拉维",
@@ -16597,6 +16604,13 @@
     "num": "788"
   },
   "TUNICIA": {
+    "normal": "TUNISIA",
+    "name": "突尼斯",
+    "code": "TN",
+    "code3": "TUN",
+    "num": "788"
+  },
+  "TUNICIA TUNEZ": {
     "normal": "TUNISIA",
     "name": "突尼斯",
     "code": "TN",
