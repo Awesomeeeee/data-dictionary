@@ -160,6 +160,13 @@
     "code3": "ALB",
     "num": "008"
   },
+  "ALBANIE": {
+    "normal": "ALBANIA",
+    "name": "阿尔巴尼亚",
+    "code": "AL",
+    "code3": "ALB",
+    "num": "008"
+  },
   "ALBANY": {
     "normal": "ALBANIA",
     "name": "阿尔巴尼亚",
@@ -2135,6 +2142,13 @@
     "num": "116"
   },
   "CAMBODIA DEMOCRATIC KAMPUCHEA": {
+    "normal": "CAMBODIA",
+    "name": "柬埔寨",
+    "code": "KH",
+    "code3": "KHM",
+    "num": "116"
+  },
+  "CAMBODIA KAMPUCHEA": {
     "normal": "CAMBODIA",
     "name": "柬埔寨",
     "code": "KH",
@@ -7929,6 +7943,13 @@
     "code": "KH",
     "code3": "KHM",
     "num": "116"
+  },
+  "KINGDOM OF LESOTHO": {
+    "normal": "LESOTHO",
+    "name": "莱索托",
+    "code": "LS",
+    "code3": "LSO",
+    "num": "426"
   },
   "KINGDOM OF SWAZILAND": {
     "normal": "ESWATINI",
