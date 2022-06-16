@@ -12830,6 +12830,13 @@
     "code3": "GEO",
     "num": "268"
   },
+  "REPUBLICA DE KOSOVO": {
+    "normal": "KOSOVO",
+    "name": "科索沃",
+    "code": "XK",
+    "code3": "XKS",
+    "num": ""
+  },
   "REPUBLICA DE MACEDONIA DEL NORTE": {
     "normal": "NORTH MACEDONIA",
     "name": "北马其顿",
