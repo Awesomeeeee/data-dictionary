@@ -17618,6 +17618,13 @@
     "code3": "VAT",
     "num": "336"
   },
+  "VATICAN CITY STATE VA": {
+    "normal": "VATICAN CITY (HOLY SEE)",
+    "name": "梵蒂冈",
+    "code": "VA",
+    "code3": "VAT",
+    "num": "336"
+  },
   "VATICANO": {
     "normal": "VATICAN CITY (HOLY SEE)",
     "name": "梵蒂冈",
