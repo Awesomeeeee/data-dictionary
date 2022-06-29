@@ -14090,6 +14090,13 @@
     "code3": "VAT",
     "num": "336"
   },
+  "SANTA SEDE ESTADO DE LA CIUDAD DEL VATICANO": {
+    "normal": "VATICAN CITY (HOLY SEE)",
+    "name": "梵蒂冈",
+    "code": "VA",
+    "code3": "VAT",
+    "num": "336"
+  },
   "SANTA SEDE LA": {
     "normal": "VATICAN CITY (HOLY SEE)",
     "name": "梵蒂冈",
