@@ -790,6 +790,13 @@
     "code3": "AZE",
     "num": "031"
   },
+  "AZERBAIY N REP BLICA DE": {
+    "normal": "AZERBAIJAN",
+    "name": "阿塞拜疆",
+    "code": "AZ",
+    "code3": "AZE",
+    "num": "031"
+  },
   "AZERBAIYA N REPAºBLICA DE": {
     "normal": "AZERBAIJAN",
     "name": "阿塞拜疆",
@@ -1966,6 +1973,13 @@
     "code3": "BTN",
     "num": "064"
   },
+  "BUT N": {
+    "normal": "BHUTAN",
+    "name": "不丹",
+    "code": "BT",
+    "code3": "BTN",
+    "num": "064"
+  },
   "BUTAN": {
     "normal": "BHUTAN",
     "name": "不丹",
@@ -2329,6 +2343,13 @@
     "code": "CA",
     "code3": "CAN",
     "num": "124"
+  },
+  "CANAL DE PANAM": {
+    "normal": "PANAMA",
+    "name": "巴拿马",
+    "code": "PA",
+    "code3": "PAN",
+    "num": "591"
   },
   "CANAL DE PANAM I": {
     "normal": "PANAMA",
@@ -3155,6 +3176,13 @@
     "code": "CD",
     "code3": "COD",
     "num": "180"
+  },
+  "CONGO REP BLICA DEL": {
+    "normal": "CONGO (BRAZZAVILLE)",
+    "name": "刚果（布）",
+    "code": "CG",
+    "code3": "COG",
+    "num": "178"
   },
   "CONGO REP OF": {
     "normal": "CONGO (BRAZZAVILLE)",
@@ -4487,6 +4515,13 @@
     "num": "784"
   },
   "EMIRATOS ARABES UNIDOS LOS": {
+    "normal": "UNITED ARAB EMIRATES",
+    "name": "阿联酋",
+    "code": "AE",
+    "code3": "ARE",
+    "num": "784"
+  },
+  "EMIRATOS RABES UNIDOS": {
     "normal": "UNITED ARAB EMIRATES",
     "name": "阿联酋",
     "code": "AE",
@@ -7062,6 +7097,13 @@
     "code3": "CYM",
     "num": "136"
   },
+  "ISLAS CAIM N": {
+    "normal": "CAYMAN ISLANDS",
+    "name": "开曼群岛",
+    "code": "KY",
+    "code3": "CYM",
+    "num": "136"
+  },
   "ISLAS CAIMA N": {
     "normal": "CAYMAN ISLANDS",
     "name": "开曼群岛",
@@ -7811,6 +7853,13 @@
     "code3": "KAZ",
     "num": "398"
   },
+  "KAZAJST N REP BLICA DE": {
+    "normal": "KAZAKHSTAN",
+    "name": "哈萨克斯坦",
+    "code": "KZ",
+    "code3": "KAZ",
+    "num": "398"
+  },
   "KAZAJSTA N REPAºBLICA DE": {
     "normal": "KAZAKHSTAN",
     "name": "哈萨克斯坦",
@@ -8344,6 +8393,13 @@
     "num": "417"
   },
   "KYRGYZSTAN KYRGYZ REPUBLIC": {
+    "normal": "KYRGYZSTAN",
+    "name": "吉尔吉斯斯坦",
+    "code": "KG",
+    "code3": "KGZ",
+    "num": "417"
+  },
+  "KYRGYZSTAN REP BLICA KIRGYZIA": {
     "normal": "KYRGYZSTAN",
     "name": "吉尔吉斯斯坦",
     "code": "KG",
@@ -9016,6 +9072,13 @@
     "num": "434"
   },
   "M NACO": {
+    "normal": "MONACO",
+    "name": "摩纳哥",
+    "code": "MC",
+    "code3": "MCO",
+    "num": "492"
+  },
+  "M NACO PRINCIPADO DE": {
     "normal": "MONACO",
     "name": "摩纳哥",
     "code": "MC",
@@ -11122,6 +11185,13 @@
     "code3": "OMN",
     "num": "512"
   },
+  "OM N": {
+    "normal": "OMAN",
+    "name": "阿曼",
+    "code": "OM",
+    "code3": "OMN",
+    "num": "512"
+  },
   "OM OMAN": {
     "normal": "OMAN",
     "name": "阿曼",
@@ -11368,6 +11438,13 @@
     "num": "585"
   },
   "PALAU PELEW ISLANDS": {
+    "normal": "PALAU",
+    "name": "帕劳",
+    "code": "PW",
+    "code3": "PLW",
+    "num": "585"
+  },
+  "PALAU REP BLICA DE": {
     "normal": "PALAU",
     "name": "帕劳",
     "code": "PW",
@@ -15315,6 +15392,13 @@
     "code3": "SDN",
     "num": "729"
   },
+  "SUD N": {
+    "normal": "SUDAN",
+    "name": "苏丹",
+    "code": "SD",
+    "code3": "SDN",
+    "num": "729"
+  },
   "SUDA FRICA": {
     "normal": "SOUTH AFRICA",
     "name": "南非",
@@ -16785,6 +16869,13 @@
     "code3": "TKM",
     "num": "795"
   },
+  "TURKMENIST N REP BLICA DE": {
+    "normal": "TURKMENISTAN",
+    "name": "土库曼斯坦",
+    "code": "TM",
+    "code3": "TKM",
+    "num": "795"
+  },
   "TURKMENISTAN": {
     "normal": "TURKMENISTAN",
     "name": "土库曼斯坦",
@@ -17870,6 +17961,13 @@
     "code3": "VGB",
     "num": "092"
   },
+  "VIRGENES ISLAS BRIT NICAS": {
+    "normal": "VIRGIN ISLANDS (BRITISH)",
+    "name": "英属维尔京群岛",
+    "code": "VG",
+    "code3": "VGB",
+    "num": "092"
+  },
   "VIRGENES ISLAS BRITA NICAS": {
     "normal": "VIRGIN ISLANDS (BRITISH)",
     "name": "英属维尔京群岛",
@@ -18319,6 +18417,13 @@
     "num": "716"
   },
   "ZIMBABWE": {
+    "normal": "ZIMBABWE",
+    "name": "津巴布韦",
+    "code": "ZW",
+    "code3": "ZWE",
+    "num": "716"
+  },
+  "ZIMBABWE REP BLICA DE": {
     "normal": "ZIMBABWE",
     "name": "津巴布韦",
     "code": "ZW",
