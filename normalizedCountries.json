@@ -16197,6 +16197,13 @@
     "code3": "IOT",
     "num": "086"
   },
+  "TERRITORIO BRITANICO OCEANO INDICO": {
+    "normal": "BRITISH INDIAN OCEAN TERRITORY",
+    "name": "英属印度洋领地",
+    "code": "IO",
+    "code3": "IOT",
+    "num": "086"
+  },
   "TERRITORIO BRITSSNICO DEL OCESSNO INDICO": {
     "normal": "BRITISH INDIAN OCEAN TERRITORY",
     "name": "英属印度洋领地",
