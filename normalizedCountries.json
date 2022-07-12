@@ -7153,6 +7153,13 @@
     "code3": "SGS",
     "num": "239"
   },
+  "ISLAS FAROE": {
+    "normal": "FAROE ISLANDS",
+    "name": "法罗群岛",
+    "code": "FO",
+    "code3": "FRO",
+    "num": "234"
+  },
   "ISLAS FEROE": {
     "normal": "FAROE ISLANDS",
     "name": "法罗群岛",
