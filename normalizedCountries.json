@@ -22441,6 +22441,13 @@
     "code3": "GNQ",
     "num": "226"
   },
+  "ЭЛАНДСКИЕ ОСТРОВА": {
+    "normal": "ÅLAND ISLANDS",
+    "name": "奥兰",
+    "code": "AX",
+    "code3": "ALA",
+    "num": "248"
+  },
   "ЭЛЬ САЛЬВАДОР": {
     "normal": "EL SALVADOR",
     "name": "萨尔瓦多",
