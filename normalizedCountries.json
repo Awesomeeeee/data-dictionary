@@ -503,6 +503,13 @@
     "code3": "ARG",
     "num": "032"
   },
+  "ARAB": {
+    "normal": "SAUDI ARABIA",
+    "name": "沙特阿拉伯",
+    "code": "SA",
+    "code3": "SAU",
+    "num": "682"
+  },
   "ARAB SAUDI": {
     "normal": "SAUDI ARABIA",
     "name": "沙特阿拉伯",
@@ -2715,6 +2722,13 @@
     "code3": "CHN",
     "num": "156"
   },
+  "CHINA HONG KONG": {
+    "normal": "CHINA HONGKONG",
+    "name": "中国香港",
+    "code": "HK",
+    "code3": "HKG",
+    "num": "344"
+  },
   "CHINA HONG KONG SAR": {
     "normal": "CHINA HONGKONG",
     "name": "中国香港",
@@ -2737,6 +2751,13 @@
     "num": "446"
   },
   "CHINA MACAO SPECIAL ADMINISTRATIVE REGION": {
+    "normal": "CHINA MACAO",
+    "name": "中国澳门",
+    "code": "MO",
+    "code3": "MAC",
+    "num": "446"
+  },
+  "CHINA MACAU": {
     "normal": "CHINA MACAO",
     "name": "中国澳门",
     "code": "MO",
@@ -2917,6 +2938,13 @@
     "code": "CO",
     "code3": "COL",
     "num": "170"
+  },
+  "COATE DE IVOIRE": {
+    "normal": "CÔTE D'IVOIRE",
+    "name": "科特迪瓦",
+    "code": "CI",
+    "code3": "CIV",
+    "num": "384"
   },
   "COCOS": {
     "normal": "COCOS (KEELING) ISLANDS",
@@ -4080,6 +4108,13 @@
     "code3": "DEU",
     "num": "276"
   },
+  "DEMOCRATIC CONGO": {
+    "normal": "CONGO (KINSHASA)",
+    "name": "刚果（金）",
+    "code": "CD",
+    "code3": "COD",
+    "num": "180"
+  },
   "DEMOCRATIC PEOPLE S REP OF KOREA": {
     "normal": "NORTH KOREA",
     "name": "朝鲜",
@@ -5038,6 +5073,13 @@
     "code": "EE",
     "code3": "EST",
     "num": "233"
+  },
+  "ESWATINI": {
+    "normal": "ESWATINI",
+    "name": "斯威士兰",
+    "code": "SZ",
+    "code3": "SWZ",
+    "num": "748"
   },
   "ET ETHIOPIA": {
     "normal": "ETHIOPIA",
@@ -17059,6 +17101,13 @@
     "num": "772"
   },
   "TOKELAU ISLAND": {
+    "normal": "TOKELAU",
+    "name": "托克劳",
+    "code": "TK",
+    "code3": "TKL",
+    "num": "772"
+  },
+  "TOKELAU ISLANDS": {
     "normal": "TOKELAU",
     "name": "托克劳",
     "code": "TK",
