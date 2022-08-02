@@ -19200,6 +19200,13 @@
     "code3": "PER",
     "num": "604"
   },
+  "ZR": {
+    "normal": "CONGO (KINSHASA)",
+    "name": "刚果（金）",
+    "code": "CD",
+    "code3": "COD",
+    "num": "180"
+  },
   "ZW ZIMBABWE": {
     "normal": "ZIMBABWE",
     "name": "津巴布韦",
