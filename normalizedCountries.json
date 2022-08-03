@@ -3051,6 +3051,13 @@
     "code3": "CIV",
     "num": "384"
   },
+  "COLECTIVIDAD DE SAN MARTIN": {
+    "normal": "SAINT MARTIN (FRENCH PART)",
+    "name": "法属圣马丁",
+    "code": "MF",
+    "code3": "MAF",
+    "num": "663"
+  },
   "COLMBIA": {
     "normal": "COLOMBIA",
     "name": "哥伦比亚",
