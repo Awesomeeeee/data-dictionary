@@ -16736,6 +16736,13 @@
     "code3": "VCT",
     "num": "670"
   },
+  "STATE OF PALESTINE": {
+    "normal": "PALESTINE",
+    "name": "巴勒斯坦",
+    "code": "PS",
+    "code3": "PSE",
+    "num": "275"
+  },
   "SU ARAB": {
     "normal": "SAUDI ARABIA",
     "name": "沙特阿拉伯",
