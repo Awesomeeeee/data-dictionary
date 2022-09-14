@@ -23134,6 +23134,13 @@
     "code3": "SVN",
     "num": "705"
   },
+  "СОЕДИНЕН КОРОЛЕВСТВО": {
+    "normal": "UNITED KINGDOM",
+    "name": "英国",
+    "code": "GB",
+    "code3": "GBR",
+    "num": "826"
+  },
   "СОЕДИНЕННОЕ КОРОЛЕВСТВО": {
     "normal": "UNITED KINGDOM",
     "name": "英国",
