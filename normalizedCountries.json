@@ -3009,6 +3009,13 @@
     "code3": "CXR",
     "num": "162"
   },
+  "CHRISTMAS ADALARI": {
+    "normal": "CHRISTMAS ISLAND",
+    "name": "圣诞岛",
+    "code": "CX",
+    "code3": "CXR",
+    "num": "162"
+  },
   "CHRISTMAS ILHA NAVIDAD": {
     "normal": "CHRISTMAS ISLAND",
     "name": "圣诞岛",
@@ -11010,6 +11017,13 @@
     "code3": "UMI",
     "num": "581"
   },
+  "MIKRONEZYA": {
+    "normal": "MICRONESIA",
+    "name": "密克罗尼西亚联邦",
+    "code": "FM",
+    "code3": "FSM",
+    "num": "583"
+  },
   "MIQUELON": {
     "normal": "SAINT PIERRE AND MIQUELON",
     "name": "圣皮埃尔和密克隆",
@@ -16233,6 +16247,13 @@
     "num": "706"
   },
   "SOLOMON": {
+    "normal": "SOLOMON ISLANDS",
+    "name": "所罗门群岛",
+    "code": "SB",
+    "code3": "SLB",
+    "num": "090"
+  },
+  "SOLOMON ADALARI": {
     "normal": "SOLOMON ISLANDS",
     "name": "所罗门群岛",
     "code": "SB",
