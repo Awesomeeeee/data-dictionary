@@ -20705,6 +20705,13 @@
     "code3": "BGR",
     "num": "100"
   },
+  "БОЛИВИЯ МНОГОНАЦ ГОС": {
+    "normal": "BOLIVIA",
+    "name": "玻利维亚",
+    "code": "BO",
+    "code3": "BOL",
+    "num": "068"
+  },
   "БОЛИВИЯ МНОГОНАЦИОНАЛ ГОСУДАРСТВО": {
     "normal": "BOLIVIA",
     "name": "玻利维亚",
@@ -20956,6 +20963,20 @@
     "code": "VG",
     "code3": "VGB",
     "num": "092"
+  },
+  "ВИРГИН ОСТРОВА БРИТ": {
+    "normal": "VIRGIN ISLANDS (BRITISH)",
+    "name": "英属维尔京群岛",
+    "code": "VG",
+    "code3": "VGB",
+    "num": "092"
+  },
+  "ВИРГИНСКИЕ О ВА США": {
+    "normal": "VIRGIN ISLANDS (U.S.)",
+    "name": "美属维尔京群岛",
+    "code": "VI",
+    "code3": "VIR",
+    "num": "850"
   },
   "ВИРГИНСКИЕ ОСТРОВА БРИТАНСКИ": {
     "normal": "VIRGIN ISLANDS (BRITISH)",
@@ -21300,6 +21321,13 @@
     "code3": "DMA",
     "num": "212"
   },
+  "ДОМИНИКАНСКАЯ РЕСП": {
+    "normal": "DOMINICAN REPUBLIC",
+    "name": "多米尼加",
+    "code": "DO",
+    "code3": "DOM",
+    "num": "214"
+  },
   "ДОМИНИКАНСКАЯ РЕСПУБЛИКА": {
     "normal": "DOMINICAN REPUBLIC",
     "name": "多米尼加",
@@ -21469,6 +21497,13 @@
     "num": "368"
   },
   "ИРАН": {
+    "normal": "IRAN",
+    "name": "伊朗",
+    "code": "IR",
+    "code3": "IRN",
+    "num": "364"
+  },
+  "ИРАН ИСЛАМ РЕСП": {
     "normal": "IRAN",
     "name": "伊朗",
     "code": "IR",
@@ -21742,6 +21777,13 @@
     "num": "408"
   },
   "КОРЕЯ": {
+    "normal": "SOUTH KOREA",
+    "name": "韩国",
+    "code": "KR",
+    "code3": "KOR",
+    "num": "410"
+  },
+  "КОРЕЯ НАР ДЕМ РЕСП": {
     "normal": "SOUTH KOREA",
     "name": "韩国",
     "code": "KR",
@@ -22553,6 +22595,13 @@
     "code3": "ARE",
     "num": "784"
   },
+  "ОБЪЕДИН АРАБ ЭМИРАТЫ": {
+    "normal": "UNITED ARAB EMIRATES",
+    "name": "阿联酋",
+    "code": "AE",
+    "code3": "ARE",
+    "num": "784"
+  },
   "ОБЪЕДИНЕННЫЕ АРАБСКИЕ ЭМИРАТЫ": {
     "normal": "UNITED ARAB EMIRATES",
     "name": "阿联酋",
@@ -23105,6 +23154,13 @@
     "code": "SG",
     "code3": "SGP",
     "num": "702"
+  },
+  "СИРИЙСКАЯ АРАБ РЕСП": {
+    "normal": "SYRIA",
+    "name": "叙利亚",
+    "code": "SY",
+    "code3": "SYR",
+    "num": "760"
   },
   "СИРИЙСКАЯ АРАБСКАЯ РЕСПУБЛИКА": {
     "normal": "SYRIA",
