@@ -7888,6 +7888,13 @@
     "code3": "MNP",
     "num": "580"
   },
+  "ISLAS MARIANAS DE NORTE": {
+    "normal": "NORTHERN MARIANA ISLANDS",
+    "name": "北马里亚纳群岛",
+    "code": "MP",
+    "code3": "MNP",
+    "num": "580"
+  },
   "ISLAS MARIANAS DEL N": {
     "normal": "NORTHERN MARIANA ISLANDS",
     "name": "北马里亚纳群岛",
