@@ -1833,6 +1833,13 @@
     "code3": "BVT",
     "num": "074"
   },
+  "BOUVET ISLAND NORWAY": {
+    "normal": "BOUVET ISLAND",
+    "name": "布韦岛",
+    "code": "BV",
+    "code3": "BVT",
+    "num": "074"
+  },
   "BR BRAZIL": {
     "normal": "BRAZIL",
     "name": "巴西",
@@ -11277,6 +11284,13 @@
     "num": "500"
   },
   "MONTSERRAT ISLA": {
+    "normal": "MONTSERRAT",
+    "name": "蒙特塞拉特",
+    "code": "MS",
+    "code3": "MSR",
+    "num": "500"
+  },
+  "MONTSERRAT ISLANDS": {
     "normal": "MONTSERRAT",
     "name": "蒙特塞拉特",
     "code": "MS",
