@@ -951,6 +951,13 @@
     "code3": "BIH",
     "num": "070"
   },
+  "BA BOSNIA HERZEGOVINA": {
+    "normal": "BOSNIA AND HERZEGOVINA",
+    "name": "波黑",
+    "code": "BA",
+    "code3": "BIH",
+    "num": "070"
+  },
   "BA LGICA": {
     "normal": "BELGIUM",
     "name": "比利时",
@@ -1568,6 +1575,13 @@
     "num": "204"
   },
   "BM BERMUDA": {
+    "normal": "BERMUDA",
+    "name": "百慕大",
+    "code": "BM",
+    "code3": "BMU",
+    "num": "060"
+  },
+  "BM BERMUDAS": {
     "normal": "BERMUDA",
     "name": "百慕大",
     "code": "BM",
@@ -2267,6 +2281,13 @@
     "code3": "BLR",
     "num": "112"
   },
+  "BY BIELORRUSIA": {
+    "normal": "BELARUS",
+    "name": "白俄罗斯",
+    "code": "BY",
+    "code3": "BLR",
+    "num": "112"
+  },
   "BYELORUSSIA": {
     "normal": "BELARUS",
     "name": "白俄罗斯",
@@ -2889,6 +2910,13 @@
     "code": "CG",
     "code3": "COG",
     "num": "178"
+  },
+  "CH SUIZA": {
+    "normal": "SWITZERLAND",
+    "name": "瑞士",
+    "code": "CH",
+    "code3": "CHE",
+    "num": "756"
   },
   "CH SWITZERLAND": {
     "normal": "SWITZERLAND",
@@ -4269,6 +4297,13 @@
     "code3": "CUW",
     "num": "531"
   },
+  "CY CHIPRE": {
+    "normal": "CYPRUS",
+    "name": "塞浦路斯",
+    "code": "CY",
+    "code3": "CYP",
+    "num": "196"
+  },
   "CY CYPRUS": {
     "normal": "CYPRUS",
     "name": "塞浦路斯",
@@ -4578,6 +4613,13 @@
     "num": "262"
   },
   "DK DENMARK": {
+    "normal": "DENMARK",
+    "name": "丹麦",
+    "code": "DK",
+    "code3": "DNK",
+    "num": "208"
+  },
+  "DK DINAMARCA": {
     "normal": "DENMARK",
     "name": "丹麦",
     "code": "DK",
@@ -5978,6 +6020,13 @@
     "num": "438"
   },
   "FO FAROE ISLANDS": {
+    "normal": "FAROE ISLANDS",
+    "name": "法罗群岛",
+    "code": "FO",
+    "code3": "FRO",
+    "num": "234"
+  },
+  "FO ISLAS FEROE": {
     "normal": "FAROE ISLANDS",
     "name": "法罗群岛",
     "code": "FO",
@@ -7412,6 +7461,13 @@
     "code3": "IRL",
     "num": "372"
   },
+  "IE IRLANDA": {
+    "normal": "IRELAND",
+    "name": "爱尔兰",
+    "code": "IE",
+    "code3": "IRL",
+    "num": "372"
+  },
   "IEMEN": {
     "normal": "YEMEN",
     "name": "也门",
@@ -8700,6 +8756,13 @@
     "code3": "JOR",
     "num": "400"
   },
+  "JO JORDANIA": {
+    "normal": "JORDAN",
+    "name": "约旦",
+    "code": "JO",
+    "code3": "JOR",
+    "num": "400"
+  },
   "JOHNSTON ISLAND": {
     "normal": "UNITED STATES MINOR OUTLYING ISLANDS",
     "name": "美国本土外小岛屿",
@@ -8974,6 +9037,13 @@
     "num": "417"
   },
   "KH CAMBODIA": {
+    "normal": "CAMBODIA",
+    "name": "柬埔寨",
+    "code": "KH",
+    "code3": "KHM",
+    "num": "116"
+  },
+  "KH CAMBOYA KAMPUCHEA": {
     "normal": "CAMBODIA",
     "name": "柬埔寨",
     "code": "KH",
@@ -9505,6 +9575,13 @@
     "code3": "KGZ",
     "num": "417"
   },
+  "KZ KAZAJSTAN": {
+    "normal": "KAZAKHSTAN",
+    "name": "哈萨克斯坦",
+    "code": "KZ",
+    "code3": "KAZ",
+    "num": "398"
+  },
   "KZ KAZAKSTAN": {
     "normal": "KAZAKHSTAN",
     "name": "哈萨克斯坦",
@@ -9527,6 +9604,13 @@
     "num": "422"
   },
   "LA LAO": {
+    "normal": "LAOS",
+    "name": "老挝",
+    "code": "LA",
+    "code3": "LAO",
+    "num": "418"
+  },
+  "LA LAOS": {
     "normal": "LAOS",
     "name": "老挝",
     "code": "LA",
@@ -9834,6 +9918,13 @@
     "code3": "LBN",
     "num": "422"
   },
+  "LI LIECHTENSTEIN": {
+    "normal": "LIECHTENSTEIN",
+    "name": "列支敦士登",
+    "code": "LI",
+    "code3": "LIE",
+    "num": "438"
+  },
   "LIBANO": {
     "normal": "LEBANON",
     "name": "黎巴嫩",
@@ -10121,7 +10212,21 @@
     "code3": "LTU",
     "num": "440"
   },
+  "LT LITUANIA": {
+    "normal": "LITHUANIA",
+    "name": "立陶宛",
+    "code": "LT",
+    "code3": "LTU",
+    "num": "440"
+  },
   "LU LUXEMBOURG": {
+    "normal": "LUXEMBOURG",
+    "name": "卢森堡",
+    "code": "LU",
+    "code3": "LUX",
+    "num": "442"
+  },
+  "LU LUXEMBURGO": {
     "normal": "LUXEMBOURG",
     "name": "卢森堡",
     "code": "LU",
@@ -11289,6 +11394,13 @@
     "code": "MN",
     "code3": "MNG",
     "num": "496"
+  },
+  "MO MACAO": {
+    "normal": "CHINA MACAO",
+    "name": "中国澳门",
+    "code": "MO",
+    "code3": "MAC",
+    "num": "446"
   },
   "MOCAMBIQUE": {
     "normal": "MOZAMBIQUE",
@@ -12530,6 +12642,13 @@
     "num": "562"
   },
   "NZ NEW ZEALAND": {
+    "normal": "NEW ZEALAND",
+    "name": "新西兰",
+    "code": "NZ",
+    "code3": "NZL",
+    "num": "554"
+  },
+  "NZ NUEVA ZELANDA": {
     "normal": "NEW ZEALAND",
     "name": "新西兰",
     "code": "NZ",
@@ -14845,6 +14964,13 @@
     "code": "RO",
     "code3": "ROU",
     "num": "642"
+  },
+  "RS SERBIA": {
+    "normal": "SERBIA",
+    "name": "塞尔维亚",
+    "code": "RS",
+    "code3": "SRB",
+    "num": "688"
   },
   "RSS DE UCRANIA": {
     "normal": "UKRAINE",
@@ -18367,6 +18493,13 @@
     "code3": "TKM",
     "num": "795"
   },
+  "TN TUNEZ": {
+    "normal": "TUNISIA",
+    "name": "突尼斯",
+    "code": "TN",
+    "code3": "TUN",
+    "num": "788"
+  },
   "TN TUNISIA": {
     "normal": "TUNISIA",
     "name": "突尼斯",
@@ -18599,6 +18732,13 @@
     "num": "780"
   },
   "TT TRINIDAD AND TOBAGO": {
+    "normal": "TRINIDAD AND TOBAGO",
+    "name": "特立尼达和多巴哥",
+    "code": "TT",
+    "code3": "TTO",
+    "num": "780"
+  },
+  "TT TRINIDAD Y TOBAGO": {
     "normal": "TRINIDAD AND TOBAGO",
     "name": "特立尼达和多巴哥",
     "code": "TT",
@@ -19024,6 +19164,13 @@
     "code": "VI",
     "code3": "VIR",
     "num": "850"
+  },
+  "UA UCRANIA": {
+    "normal": "UKRAINE",
+    "name": "乌克兰",
+    "code": "UA",
+    "code3": "UKR",
+    "num": "804"
   },
   "UA UKRAINE": {
     "normal": "UKRAINE",
@@ -19837,6 +19984,13 @@
     "code3": "VEN",
     "num": "862"
   },
+  "VG ISLAS VIRGENES GB": {
+    "normal": "VIRGIN ISLANDS (BRITISH)",
+    "name": "英属维尔京群岛",
+    "code": "VG",
+    "code3": "VGB",
+    "num": "092"
+  },
   "VG VIRGIN ISLANDS BRITISH": {
     "normal": "VIRGIN ISLANDS (BRITISH)",
     "name": "英属维尔京群岛",
@@ -20244,6 +20398,13 @@
     "num": "876"
   },
   "WS SAMOA": {
+    "normal": "SAMOA",
+    "name": "萨摩亚",
+    "code": "WS",
+    "code3": "WSM",
+    "num": "882"
+  },
+  "WS SAMOA OCCIDENTAL": {
     "normal": "SAMOA",
     "name": "萨摩亚",
     "code": "WS",
