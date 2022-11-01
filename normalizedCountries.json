@@ -6138,6 +6138,13 @@
     "code3": "FRO",
     "num": "234"
   },
+  "FEROE ISLANDS": {
+    "normal": "FAROE ISLANDS",
+    "name": "法罗群岛",
+    "code": "FO",
+    "code3": "FRO",
+    "num": "234"
+  },
   "FEROE ISLAS": {
     "normal": "FAROE ISLANDS",
     "name": "法罗群岛",
@@ -20713,6 +20720,13 @@
     "num": "840"
   },
   "UNITED STATES MINOR": {
+    "normal": "UNITED STATES MINOR OUTLYING ISLANDS",
+    "name": "美国本土外小岛屿",
+    "code": "UM",
+    "code3": "UMI",
+    "num": "581"
+  },
+  "UNITED STATES MINOR ISLANDS": {
     "normal": "UNITED STATES MINOR OUTLYING ISLANDS",
     "name": "美国本土外小岛屿",
     "code": "UM",
