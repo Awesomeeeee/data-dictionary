@@ -1490,6 +1490,13 @@
     "code3": "BEN",
     "num": "204"
   },
+  "BENÝN": {
+    "normal": "BENIN",
+    "name": "贝宁",
+    "code": "BJ",
+    "code3": "BEN",
+    "num": "204"
+  },
   "BENİN": {
     "normal": "BENIN",
     "name": "贝宁",
@@ -16926,6 +16933,13 @@
     "num": "662"
   },
   "SANTA LUCÍA": {
+    "normal": "SAINT LUCIA",
+    "name": "圣卢西亚",
+    "code": "LC",
+    "code3": "LCA",
+    "num": "662"
+  },
+  "SANTA LUCÝA": {
     "normal": "SAINT LUCIA",
     "name": "圣卢西亚",
     "code": "LC",
