@@ -2491,6 +2491,13 @@
     "code3": "BEL",
     "num": "056"
   },
+  "BÚLGICA": {
+    "normal": "BELGIUM",
+    "name": "比利时",
+    "code": "BE",
+    "code3": "BEL",
+    "num": "056"
+  },
   "BİRLEŞİK ARAP EMİRLİKLERİ": {
     "normal": "UNITED ARAB EMIRATES",
     "name": "阿联酋",
@@ -5865,6 +5872,13 @@
     "code3": "ETH",
     "num": "231"
   },
+  "ETIOPÝA": {
+    "normal": "ETHIOPIA",
+    "name": "埃塞俄比亚",
+    "code": "ET",
+    "code3": "ETH",
+    "num": "231"
+  },
   "ETIYOPYA": {
     "normal": "ETHIOPIA",
     "name": "埃塞俄比亚",
@@ -7847,6 +7861,13 @@
     "num": "348"
   },
   "HUNGRÍA": {
+    "normal": "HUNGARY",
+    "name": "匈牙利",
+    "code": "HU",
+    "code3": "HUN",
+    "num": "348"
+  },
+  "HUNGRÝA": {
     "normal": "HUNGARY",
     "name": "匈牙利",
     "code": "HU",
@@ -10904,6 +10925,13 @@
     "code": "LU",
     "code3": "LUX",
     "num": "442"
+  },
+  "LÝBANO": {
+    "normal": "LEBANON",
+    "name": "黎巴嫩",
+    "code": "LB",
+    "code3": "LBN",
+    "num": "422"
   },
   "LİBERYA": {
     "normal": "LIBERIA",
@@ -15630,12 +15658,40 @@
     "code3": "DOM",
     "num": "214"
   },
+  "REPÚBLIC DEL CONGO": {
+    "normal": "CONGO (BRAZZAVILLE)",
+    "name": "刚果（布）",
+    "code": "CG",
+    "code3": "COG",
+    "num": "178"
+  },
+  "REPÚBLICA ARABE SIRIA": {
+    "normal": "SYRIA",
+    "name": "叙利亚",
+    "code": "SY",
+    "code3": "SYR",
+    "num": "760"
+  },
+  "REPÚBLICA CENTROAFRICANA": {
+    "normal": "CENTRAL AFRICAN REPUBLIC",
+    "name": "中非",
+    "code": "CF",
+    "code3": "CAF",
+    "num": "140"
+  },
   "REPÚBLICA CHECA": {
     "normal": "CZECHIA",
     "name": "捷克",
     "code": "CZ",
     "code3": "CZE",
     "num": "203"
+  },
+  "REPÚBLICA DE COREA": {
+    "normal": "SOUTH KOREA",
+    "name": "韩国",
+    "code": "KR",
+    "code3": "KOR",
+    "num": "410"
   },
   "REPÚBLICA DE COREA DEL SUR": {
     "normal": "SOUTH KOREA",
@@ -15644,6 +15700,13 @@
     "code3": "KOR",
     "num": "410"
   },
+  "REPÚBLICA DE ESLOVAQUIA": {
+    "normal": "SLOVAKIA",
+    "name": "斯洛伐克",
+    "code": "SK",
+    "code3": "SVK",
+    "num": "703"
+  },
   "REPÚBLICA DE KOSOVO": {
     "normal": "KOSOVO",
     "name": "科索沃",
@@ -15651,12 +15714,26 @@
     "code3": "XKS",
     "num": ""
   },
+  "REPÚBLICA DE MOLDAVIA": {
+    "normal": "MOLDOVA",
+    "name": "摩尔多瓦",
+    "code": "MD",
+    "code3": "MDA",
+    "num": "498"
+  },
   "REPÚBLICA DEL CONGO": {
     "normal": "CONGO (BRAZZAVILLE)",
     "name": "刚果（布）",
     "code": "CG",
     "code3": "COG",
     "num": "178"
+  },
+  "REPÚBLICA DEMOCRÁTICA DE LAOS": {
+    "normal": "LAOS",
+    "name": "老挝",
+    "code": "LA",
+    "code3": "LAO",
+    "num": "418"
   },
   "REPÚBLICA DEMOCRÁTICA DEL CONGO": {
     "normal": "CONGO (KINSHASA)",
@@ -15679,12 +15756,33 @@
     "code3": "LAO",
     "num": "418"
   },
+  "REPÚBLICA DEMÓCRATICA DE COREA": {
+    "normal": "NORTH KOREA",
+    "name": "朝鲜",
+    "code": "KP",
+    "code3": "PRK",
+    "num": "408"
+  },
   "REPÚBLICA DOMINICANA": {
     "normal": "DOMINICAN REPUBLIC",
     "name": "多米尼加",
     "code": "DO",
     "code3": "DOM",
     "num": "214"
+  },
+  "REPÚBLICA FEDERAL DE ALEMANIA": {
+    "normal": "GERMANY",
+    "name": "德国",
+    "code": "DE",
+    "code3": "DEU",
+    "num": "276"
+  },
+  "REPÚBLICA ISLÁMICA DE IRÁN": {
+    "normal": "IRAN",
+    "name": "伊朗",
+    "code": "IR",
+    "code3": "IRN",
+    "num": "364"
   },
   "REPÚBLICA POPULAR DE CHINA": {
     "normal": "CHINA",
@@ -16590,6 +16688,13 @@
     "num": "659"
   },
   "SAN CRISTYYBAL Y NIEVES": {
+    "normal": "SAINT KITTS AND NEVIS",
+    "name": "圣基茨和尼维斯",
+    "code": "KN",
+    "code3": "KNA",
+    "num": "659"
+  },
+  "SAN CRISTÓBAL Y NEVIS": {
     "normal": "SAINT KITTS AND NEVIS",
     "name": "圣基茨和尼维斯",
     "code": "KN",
@@ -19249,6 +19354,13 @@
     "code3": "IOT",
     "num": "086"
   },
+  "TERRITORIO BRITÁNICO DEL OCEÁNO INDICO": {
+    "normal": "BRITISH INDIAN OCEAN TERRITORY",
+    "name": "英属印度洋领地",
+    "code": "IO",
+    "code3": "IOT",
+    "num": "086"
+  },
   "TERRITORIOS AUT NOMOS PALESTINOS": {
     "normal": "PALESTINE",
     "name": "巴勒斯坦",
@@ -19257,6 +19369,13 @@
     "num": "275"
   },
   "TERRITORIOS AUTONOMOS PALESTINOS": {
+    "normal": "PALESTINE",
+    "name": "巴勒斯坦",
+    "code": "PS",
+    "code3": "PSE",
+    "num": "275"
+  },
+  "TERRITORIOS AUTÓNOMOS PALESTINOS": {
     "normal": "PALESTINE",
     "name": "巴勒斯坦",
     "code": "PS",
@@ -19285,6 +19404,13 @@
     "num": "208"
   },
   "TERRITORIOS ESPANOLES": {
+    "normal": "SPAIN",
+    "name": "西班牙",
+    "code": "ES",
+    "code3": "ESP",
+    "num": "724"
+  },
+  "TERRITORIOS ESPAÑOLES": {
     "normal": "SPAIN",
     "name": "西班牙",
     "code": "ES",
@@ -20089,6 +20215,13 @@
     "code3": "TKM",
     "num": "795"
   },
+  "TURMENISTÁN": {
+    "normal": "TURKMENISTAN",
+    "name": "土库曼斯坦",
+    "code": "TM",
+    "code3": "TKM",
+    "num": "795"
+  },
   "TURQU A": {
     "normal": "TURKEY",
     "name": "土耳其",
@@ -20139,6 +20272,13 @@
     "num": "792"
   },
   "TURQUÍA": {
+    "normal": "TURKEY",
+    "name": "土耳其",
+    "code": "TR",
+    "code3": "TUR",
+    "num": "792"
+  },
+  "TURQUÝA": {
     "normal": "TURKEY",
     "name": "土耳其",
     "code": "TR",
