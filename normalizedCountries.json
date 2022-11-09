@@ -573,6 +573,13 @@
     "code3": "ANT",
     "num": "530"
   },
+  "ANTÁRTIDA": {
+    "normal": "ANTARCTICA",
+    "name": "南极洲",
+    "code": "AQ",
+    "code3": "ATA",
+    "num": "010"
+  },
   "ANTÍGUA E BARBUDA": {
     "normal": "ANTIGUA AND BARBUDA",
     "name": "安提瓜和巴布达",
