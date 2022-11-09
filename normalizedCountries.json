@@ -1378,6 +1378,13 @@
     "code3": "BLR",
     "num": "112"
   },
+  "BELAU": {
+    "normal": "PALAU",
+    "name": "帕劳",
+    "code": "PW",
+    "code3": "PLW",
+    "num": "585"
+  },
   "BELCIKA": {
     "normal": "BELGIUM",
     "name": "比利时",
