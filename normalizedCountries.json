@@ -5753,6 +5753,13 @@
     "code3": "ESP",
     "num": "724"
   },
+  "ESPA ÆA": {
+    "normal": "SPAIN",
+    "name": "西班牙",
+    "code": "ES",
+    "code3": "ESP",
+    "num": "724"
+  },
   "ESPAA A": {
     "normal": "SPAIN",
     "name": "西班牙",
@@ -9876,6 +9883,13 @@
     "code3": "KAZ",
     "num": "398"
   },
+  "KAZKHASTAN": {
+    "normal": "KAZAKHSTAN",
+    "name": "哈萨克斯坦",
+    "code": "KZ",
+    "code3": "KAZ",
+    "num": "398"
+  },
   "KE KENYA": {
     "normal": "KENYA",
     "name": "肯尼亚",
@@ -12556,6 +12570,13 @@
     "code": "MN",
     "code3": "MNG",
     "num": "496"
+  },
+  "MOLDAVA": {
+    "normal": "MOLDOVA",
+    "name": "摩尔多瓦",
+    "code": "MD",
+    "code3": "MDA",
+    "num": "498"
   },
   "MOLDAVIA": {
     "normal": "MOLDOVA",
