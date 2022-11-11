@@ -4808,6 +4808,20 @@
     "code3": "CZE",
     "num": "203"
   },
+  "CÃ TE D IVOIRE": {
+    "normal": "CÔTE D'IVOIRE",
+    "name": "科特迪瓦",
+    "code": "CI",
+    "code3": "CIV",
+    "num": "384"
+  },
+  "CÔTE D IVOIRE": {
+    "normal": "CÔTE D'IVOIRE",
+    "name": "科特迪瓦",
+    "code": "CI",
+    "code3": "CIV",
+    "num": "384"
+  },
   "CİBUTİ": {
     "normal": "DJIBOUTI",
     "name": "吉布提",
@@ -16777,6 +16791,13 @@
     "code": "RW",
     "code3": "RWA",
     "num": "646"
+  },
+  "RÃ UNION": {
+    "normal": "REUNION",
+    "name": "留尼汪",
+    "code": "RE",
+    "code3": "REU",
+    "num": "638"
   },
   "RÉUNION": {
     "normal": "REUNION",
