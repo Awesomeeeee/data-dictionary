@@ -8056,6 +8056,13 @@
     "code3": "HKG",
     "num": "344"
   },
+  "HONG KONG CHINA HK": {
+    "normal": "CHINA HONGKONG",
+    "name": "中国香港",
+    "code": "HK",
+    "code3": "HKG",
+    "num": "344"
+  },
   "HONG KONG HK": {
     "normal": "CHINA HONGKONG",
     "name": "中国香港",
@@ -19705,6 +19712,13 @@
     "num": "158"
   },
   "TAIWAN CHINA": {
+    "normal": "CHINA TAIWAN",
+    "name": "中国台湾",
+    "code": "TW",
+    "code3": "TWN",
+    "num": "158"
+  },
+  "TAIWAN CHINA TW": {
     "normal": "CHINA TAIWAN",
     "name": "中国台湾",
     "code": "TW",
