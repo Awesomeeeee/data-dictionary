@@ -11472,6 +11472,13 @@
     "code3": "MAC",
     "num": "446"
   },
+  "MACAO CHINA MO": {
+    "normal": "CHINA MACAO",
+    "name": "中国澳门",
+    "code": "MO",
+    "code3": "MAC",
+    "num": "446"
+  },
   "MACAO ISLAND": {
     "normal": "CHINA MACAO",
     "name": "中国澳门",
