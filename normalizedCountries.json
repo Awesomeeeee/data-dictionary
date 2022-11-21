@@ -2673,6 +2673,13 @@
     "code3": "CPV",
     "num": "132"
   },
+  "C ÎTE D IVOIRE": {
+    "normal": "CÔTE D'IVOIRE",
+    "name": "科特迪瓦",
+    "code": "CI",
+    "code3": "CIV",
+    "num": "384"
+  },
   "CA CANADA": {
     "normal": "CANADA",
     "name": "加拿大",
@@ -15316,6 +15323,13 @@
     "num": "638"
   },
   "R UUNION": {
+    "normal": "REUNION",
+    "name": "留尼汪",
+    "code": "RE",
+    "code3": "REU",
+    "num": "638"
+  },
+  "R ÂUNION": {
     "normal": "REUNION",
     "name": "留尼汪",
     "code": "RE",
