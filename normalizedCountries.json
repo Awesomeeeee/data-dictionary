@@ -14510,6 +14510,13 @@
     "code3": "PSE",
     "num": "275"
   },
+  "PALESTINIAN TERRITORY": {
+    "normal": "PALESTINE",
+    "name": "巴勒斯坦",
+    "code": "PS",
+    "code3": "PSE",
+    "num": "275"
+  },
   "PALESTINIAN TERRITORY OCCUPIED": {
     "normal": "PALESTINE",
     "name": "巴勒斯坦",
