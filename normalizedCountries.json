@@ -23708,6 +23708,13 @@
     "code3": "GBR",
     "num": "826"
   },
+  "БРИТАНСКАЯ ТЕР": {
+    "normal": "UNITED KINGDOM",
+    "name": "英国",
+    "code": "GB",
+    "code3": "GBR",
+    "num": "826"
+  },
   "БРИТАНСКАЯ ТЕРРИТОРИЯ В ИНДИЙС": {
     "normal": "INDIA",
     "name": "印度",
@@ -26299,6 +26306,13 @@
     "num": "158"
   },
   "ТАНЗАНИЯ": {
+    "normal": "TANZANIA",
+    "name": "坦桑尼亚",
+    "code": "TZ",
+    "code3": "TZA",
+    "num": "834"
+  },
+  "ТАНЗАНИЯ ОБЪЕД РЕСП": {
     "normal": "TANZANIA",
     "name": "坦桑尼亚",
     "code": "TZ",
