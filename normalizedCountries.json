@@ -979,6 +979,13 @@
     "code3": "AZE",
     "num": "031"
   },
+  "AZERBAIJÁN": {
+    "normal": "AZERBAIJAN",
+    "name": "阿塞拜疆",
+    "code": "AZ",
+    "code3": "AZE",
+    "num": "031"
+  },
   "AZERBAIJÃO": {
     "normal": "AZERBAIJAN",
     "name": "阿塞拜疆",
@@ -16469,6 +16476,13 @@
     "code": "CN",
     "code3": "CHN",
     "num": "156"
+  },
+  "REPÚBLICA POPULAR DEMOCRÁTICA DE LAOS": {
+    "normal": "LAOS",
+    "name": "老挝",
+    "code": "LA",
+    "code3": "LAO",
+    "num": "418"
   },
   "REPÚBLICA ÁRABE SIRIA": {
     "normal": "SYRIA",
