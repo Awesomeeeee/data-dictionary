@@ -7377,6 +7377,13 @@
     "code3": "GRC",
     "num": "300"
   },
+  "GRÖNLAND": {
+    "normal": "GREENLAND",
+    "name": "格陵兰",
+    "code": "GL",
+    "code3": "GRL",
+    "num": "304"
+  },
   "GT GUATEMALA": {
     "normal": "GUATEMALA",
     "name": "危地马拉",
@@ -23708,6 +23715,13 @@
     "code3": "GBR",
     "num": "826"
   },
+  "БРИТАНСКАЯ ТЕР": {
+    "normal": "UNITED KINGDOM",
+    "name": "英国",
+    "code": "GB",
+    "code3": "GBR",
+    "num": "826"
+  },
   "БРИТАНСКАЯ ТЕРРИТОРИЯ В ИНДИЙС": {
     "normal": "INDIA",
     "name": "印度",
@@ -26299,6 +26313,13 @@
     "num": "158"
   },
   "ТАНЗАНИЯ": {
+    "normal": "TANZANIA",
+    "name": "坦桑尼亚",
+    "code": "TZ",
+    "code3": "TZA",
+    "num": "834"
+  },
+  "ТАНЗАНИЯ ОБЪЕД РЕСП": {
     "normal": "TANZANIA",
     "name": "坦桑尼亚",
     "code": "TZ",
