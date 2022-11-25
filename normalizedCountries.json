@@ -7377,6 +7377,13 @@
     "code3": "GRC",
     "num": "300"
   },
+  "GRÖNLAND": {
+    "normal": "GREENLAND",
+    "name": "格陵兰",
+    "code": "GL",
+    "code3": "GRL",
+    "num": "304"
+  },
   "GT GUATEMALA": {
     "normal": "GUATEMALA",
     "name": "危地马拉",
