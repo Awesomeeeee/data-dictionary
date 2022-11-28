@@ -15917,6 +15917,27 @@
     "code3": "GBR",
     "num": "826"
   },
+  "REINO UNIDO DE GRAN BRETAÃ A": {
+    "normal": "UNITED KINGDOM",
+    "name": "英国",
+    "code": "GB",
+    "code3": "GBR",
+    "num": "826"
+  },
+  "REINO UNIDO DE GRAN BRETAÃƑÂ A": {
+    "normal": "UNITED KINGDOM",
+    "name": "英国",
+    "code": "GB",
+    "code3": "GBR",
+    "num": "826"
+  },
+  "REINO UNIDO DE GRAN BRETAÑA": {
+    "normal": "UNITED KINGDOM",
+    "name": "英国",
+    "code": "GB",
+    "code3": "GBR",
+    "num": "826"
+  },
   "REINO UNIDO DE GRAN BRETA脗楼A": {
     "normal": "UNITED KINGDOM",
     "name": "英国",
