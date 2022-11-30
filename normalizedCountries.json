@@ -5158,6 +5158,13 @@
     "code3": "DJI",
     "num": "262"
   },
+  "DJIBOUTI REPÚBLICA DE": {
+    "normal": "DJIBOUTI",
+    "name": "吉布提",
+    "code": "DJ",
+    "code3": "DJI",
+    "num": "262"
+  },
   "DJIBUTI": {
     "normal": "DJIBOUTI",
     "name": "吉布提",
@@ -6034,6 +6041,13 @@
     "num": "724"
   },
   "ESPAÑA": {
+    "normal": "SPAIN",
+    "name": "西班牙",
+    "code": "ES",
+    "code3": "ESP",
+    "num": "724"
+  },
+  "ESPAÑA REINO DE": {
     "normal": "SPAIN",
     "name": "西班牙",
     "code": "ES",
@@ -10836,6 +10850,13 @@
     "num": "417"
   },
   "KYRGYZSTAN REPUBLICA KIRGYZIA": {
+    "normal": "KYRGYZSTAN",
+    "name": "吉尔吉斯斯坦",
+    "code": "KG",
+    "code3": "KGZ",
+    "num": "417"
+  },
+  "KYRGYZSTAN REPÚBLICA KIRGYZIA": {
     "normal": "KYRGYZSTAN",
     "name": "吉尔吉斯斯坦",
     "code": "KG",
@@ -15980,6 +16001,13 @@
     "code3": "GBR",
     "num": "826"
   },
+  "REINO UNIDO DE LA GRAN BRETAÑA E IRLANDA DEL NORTE": {
+    "normal": "UNITED KINGDOM",
+    "name": "英国",
+    "code": "GB",
+    "code3": "GBR",
+    "num": "826"
+  },
   "REINO UNIDO DE LA GRAN BRETA袮 E IRLANDA DEL NORTE": {
     "normal": "UNITED KINGDOM",
     "name": "英国",
@@ -19795,6 +19823,13 @@
     "code3": "SDN",
     "num": "729"
   },
+  "SUDÁN REPUBLICA DEL": {
+    "normal": "SUDAN",
+    "name": "苏丹",
+    "code": "SD",
+    "code3": "SDN",
+    "num": "729"
+  },
   "SUDÃ FRICA": {
     "normal": "SOUTH AFRICA",
     "name": "南非",
@@ -20251,6 +20286,13 @@
     "num": "762"
   },
   "TADJIKISTAN REPUBLICA DE": {
+    "normal": "TAJIKISTAN",
+    "name": "塔吉克斯坦",
+    "code": "TJ",
+    "code3": "TJK",
+    "num": "762"
+  },
+  "TADJIKISTAN REPÚBLICA DE": {
     "normal": "TAJIKISTAN",
     "name": "塔吉克斯坦",
     "code": "TJ",
@@ -20804,6 +20846,13 @@
     "num": "826"
   },
   "TERRITORIOS BRITANICOS DEL OCEANO INDICO": {
+    "normal": "BRITISH INDIAN OCEAN TERRITORY",
+    "name": "英属印度洋领地",
+    "code": "IO",
+    "code3": "IOT",
+    "num": "086"
+  },
+  "TERRITORIOS BRITÁNICOS DEL OCÉANO INDICO": {
     "normal": "BRITISH INDIAN OCEAN TERRITORY",
     "name": "英属印度洋领地",
     "code": "IO",
@@ -21567,6 +21616,13 @@
     "num": "795"
   },
   "TURKMENISTÁN": {
+    "normal": "TURKMENISTAN",
+    "name": "土库曼斯坦",
+    "code": "TM",
+    "code3": "TKM",
+    "num": "795"
+  },
+  "TURKMENISTÁN REPÚBLICA DE": {
     "normal": "TURKMENISTAN",
     "name": "土库曼斯坦",
     "code": "TM",
